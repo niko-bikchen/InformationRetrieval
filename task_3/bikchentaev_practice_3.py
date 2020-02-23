@@ -26,4 +26,4 @@ index.update(data)
 
 # Search functions
 # print(qp.search_phrase_index(index, 'THE LEECH AND HIS PATIENT'))
-print(qp.search_coordinate_index(index, 'Hester Prynne #2# Pearl'))
+print(qp.search_coordinate_index(index, 'Prynne #20# Pearl'))

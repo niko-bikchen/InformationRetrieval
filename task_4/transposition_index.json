@@ -1,3581 +1,3581 @@
 {
-  "-based^regression": [
-    "regression-based"
-  ],
-  "^a": [
-    "a"
-  ],
-  "^about": [
-    "about"
-  ],
-  "^absolute": [
-    "absolute"
-  ],
-  "^abundance": [
-    "abundance"
-  ],
-  "^advocate": [
-    "advocate"
-  ],
-  "^aim": [
-    "aim"
-  ],
-  "^alone": [
-    "alone"
-  ],
-  "^also": [
-    "also"
-  ],
-  "^am": [
-    "am"
-  ],
-  "^an": [
-    "an"
-  ],
-  "^analytics": [
-    "analytics"
-  ],
-  "^and": [
-    "and"
-  ],
-  "^answer": [
-    "answer"
-  ],
-  "^are": [
-    "are"
-  ],
-  "^article": [
-    "article"
-  ],
-  "^as": [
-    "as"
-  ],
-  "^aspects": [
-    "aspects"
-  ],
-  "^aspiring": [
-    "aspiring"
-  ],
-  "^at": [
-    "at"
-  ],
-  "^attractive": [
-    "attractive"
-  ],
-  "^based": [
-    "based"
-  ],
-  "^be": [
-    "be"
-  ],
-  "^because": [
-    "because"
-  ],
-  "^been": [
-    "been"
-  ],
-  "^before": [
-    "before"
-  ],
-  "^being": [
-    "being"
-  ],
-  "^boosting": [
-    "boosting"
-  ],
-  "^boss": [
-    "boss"
-  ],
-  "^both": [
-    "both"
-  ],
-  "^built": [
-    "built"
-  ],
-  "^but": [
-    "but"
-  ],
-  "^by": [
-    "by"
-  ],
-  "^can": [
-    "can"
-  ],
-  "^cent": [
-    "cent"
-  ],
-  "^century": [
-    "century"
-  ],
-  "^clarify": [
-    "clarify"
-  ],
-  "^close": [
-    "close"
-  ],
-  "^collected": [
-    "collected"
-  ],
-  "^complex": [
-    "complex"
-  ],
-  "^contains": [
-    "contains"
-  ],
-  "^correctly": [
-    "correctly"
-  ],
-  "^data": [
-    "data"
-  ],
-  "^developers": [
-    "developers"
-  ],
-  "^devil": [
-    "devil"
-  ],
-  "^did": [
-    "did"
-  ],
-  "^discourage": [
-    "discourage"
-  ],
-  "^don": [
-    "don"
-  ],
-  "^dream": [
-    "dream"
-  ],
-  "^era": [
-    "era"
-  ],
-  "^everything": [
-    "everything"
-  ],
-  "^exclusively": [
-    "exclusively"
-  ],
-  "^expose": [
-    "expose"
-  ],
-  "^extreme": [
-    "extreme"
-  ],
-  "^fact": [
-    "fact"
-  ],
-  "^factor": [
-    "factor"
-  ],
-  "^fast": [
-    "fast"
-  ],
-  "^field": [
-    "field"
-  ],
-  "^fifteen": [
-    "fifteen"
-  ],
-  "^financial": [
-    "financial"
-  ],
-  "^for": [
-    "for"
-  ],
-  "^forward": [
-    "forward"
-  ],
-  "^from": [
-    "from"
-  ],
-  "^fun": [
-    "fun"
-  ],
-  "^funky": [
-    "funky"
-  ],
-  "^furthermore": [
-    "furthermore"
-  ],
-  "^geek": [
-    "geek"
-  ],
-  "^geeking": [
-    "geeking"
-  ],
-  "^got": [
-    "got"
-  ],
-  "^gradient": [
-    "gradient"
-  ],
-  "^had": [
-    "had"
-  ],
-  "^has": [
-    "has"
-  ],
-  "^have": [
-    "have"
-  ],
-  "^highly": [
-    "highly"
-  ],
-  "^hours": [
-    "hours"
-  ],
-  "^i": [
-    "i"
-  ],
-  "^in": [
-    "in"
-  ],
-  "^is": [
-    "is"
-  ],
-  "^it": [
-    "it"
-  ],
-  "^its": [
-    "its"
-  ],
-  "^job": [
-    "job"
-  ],
-  "^jobs": [
-    "jobs"
-  ],
-  "^knew": [
-    "knew"
-  ],
-  "^learning": [
-    "learning"
-  ],
-  "^like": [
-    "like"
-  ],
-  "^linear": [
-    "linear"
-  ],
-  "^list": [
-    "list"
-  ],
-  "^live": [
-    "live"
-  ],
-  "^logistic": [
-    "logistic"
-  ],
-  "^long": [
-    "long"
-  ],
-  "^looking": [
-    "looking"
-  ],
-  "^love": [
-    "love"
-  ],
-  "^machine": [
-    "machine"
-  ],
-  "^make": [
-    "make"
-  ],
-  "^many": [
-    "many"
-  ],
-  "^modeling": [
-    "modeling"
-  ],
-  "^models": [
-    "models"
-  ],
-  "^money": [
-    "money"
-  ],
-  "^my": [
-    "my"
-  ],
-  "^myself": [
-    "myself"
-  ],
-  "^name": [
-    "name"
-  ],
-  "^negative": [
-    "negative"
-  ],
-  "^new": [
-    "new"
-  ],
-  "^of": [
-    "of"
-  ],
-  "^old": [
-    "old"
-  ],
-  "^on": [
-    "on"
-  ],
-  "^or": [
-    "or"
-  ],
-  "^others": [
-    "others"
-  ],
-  "^out": [
-    "out"
-  ],
-  "^over": [
-    "over"
-  ],
-  "^overflow": [
-    "overflow"
-  ],
-  "^passed": [
-    "passed"
-  ],
-  "^people": [
-    "people"
-  ],
-  "^per": [
-    "per"
-  ],
-  "^play": [
-    "play"
-  ],
-  "^position": [
-    "position"
-  ],
-  "^positive": [
-    "positive"
-  ],
-  "^predictive": [
-    "predictive"
-  ],
-  "^problems": [
-    "problems"
-  ],
-  "^queen": [
-    "queen"
-  ],
-  "^question": [
-    "question"
-  ],
-  "^read": [
-    "read"
-  ],
-  "^recently": [
-    "recently"
-  ],
-  "^regression": [
-    "regression"
-  ],
-  "^regression-based": [
-    "regression-based"
-  ],
-  "^remember": [
-    "remember"
-  ],
-  "^rewarding": [
-    "rewarding"
-  ],
-  "^right": [
-    "right"
-  ],
-  "^said": [
-    "said"
-  ],
-  "^say": [
-    "say"
-  ],
-  "^science": [
-    "science"
-  ],
-  "^scientist": [
-    "scientist"
-  ],
-  "^scientists": [
-    "scientists"
-  ],
-  "^second": [
-    "second"
-  ],
-  "^seem": [
-    "seem"
-  ],
-  "^sexiest": [
-    "sexiest"
-  ],
-  "^should": [
-    "should"
-  ],
-  "^skilled": [
-    "skilled"
-  ],
-  "^so": [
-    "so"
-  ],
-  "^solve": [
-    "solve"
-  ],
-  "^some": [
-    "some"
-  ],
-  "^someone": [
-    "someone"
-  ],
-  "^specialists": [
-    "specialists"
-  ],
-  "^spend": [
-    "spend"
-  ],
-  "^stack": [
-    "stack"
-  ],
-  "^stated": [
-    "stated"
-  ],
-  "^states": [
-    "states"
-  ],
-  "^statistical": [
-    "statistical"
-  ],
-  "^still": [
-    "still"
-  ],
-  "^stimulating": [
-    "stimulating"
-  ],
-  "^stories": [
-    "stories"
-  ],
-  "^sums": [
-    "sums"
-  ],
-  "^survey": [
-    "survey"
-  ],
-  "^switched": [
-    "switched"
-  ],
-  "^tenure": [
-    "tenure"
-  ],
-  "^that": [
-    "that"
-  ],
-  "^the": [
-    "the"
-  ],
-  "^their": [
-    "their"
-  ],
-  "^there": [
-    "there"
-  ],
-  "^these": [
-    "these"
-  ],
-  "^they": [
-    "they"
-  ],
-  "^thing": [
-    "thing"
-  ],
-  "^thinking": [
-    "thinking"
-  ],
-  "^this": [
-    "this"
-  ],
-  "^time": [
-    "time"
-  ],
-  "^times": [
-    "times"
-  ],
-  "^title": [
-    "title"
-  ],
-  "^to": [
-    "to"
-  ],
-  "^too": [
-    "too"
-  ],
-  "^topped": [
-    "topped"
-  ],
-  "^truth": [
-    "truth"
-  ],
-  "^typically": [
-    "typically"
-  ],
-  "^undisputed": [
-    "undisputed"
-  ],
-  "^want": [
-    "want"
-  ],
-  "^was": [
-    "was"
-  ],
-  "^wasn": [
-    "wasn"
-  ],
-  "^we": [
-    "we"
-  ],
-  "^week": [
-    "week"
-  ],
-  "^were": [
-    "were"
-  ],
-  "^who": [
-    "who"
-  ],
-  "^whole": [
-    "whole"
-  ],
-  "^why": [
-    "why"
-  ],
-  "^with": [
-    "with"
-  ],
-  "^xgboost": [
-    "xgboost"
-  ],
-  "^years": [
-    "years"
-  ],
-  "^yes": [
-    "yes"
-  ],
-  "^you": [
-    "you"
-  ],
-  "a^": [
-    "a"
-  ],
-  "a^dat": [
-    "data"
-  ],
-  "a^er": [
-    "era"
-  ],
-  "about^": [
-    "about"
-  ],
-  "absolute^": [
-    "absolute"
-  ],
-  "abundance^": [
-    "abundance"
-  ],
-  "achine^m": [
-    "machine"
-  ],
-  "ack^st": [
-    "stack"
-  ],
-  "act^f": [
-    "fact"
-  ],
-  "active^attr": [
-    "attractive"
-  ],
-  "actor^f": [
-    "factor"
-  ],
-  "ad^h": [
-    "had"
-  ],
-  "ad^re": [
-    "read"
-  ],
-  "adient^gr": [
-    "gradient"
-  ],
-  "advocate^": [
-    "advocate"
-  ],
-  "age^discour": [
-    "discourage"
-  ],
-  "aid^s": [
-    "said"
-  ],
-  "aim^": [
-    "aim"
-  ],
-  "ains^cont": [
-    "contains"
-  ],
-  "ake^m": [
-    "make"
-  ],
-  "al^financi": [
-    "financial"
-  ],
-  "al^statistic": [
-    "statistical"
-  ],
-  "alists^speci": [
-    "specialists"
-  ],
-  "ally^typic": [
-    "typically"
-  ],
-  "alone^": [
-    "alone"
-  ],
-  "also^": [
-    "also"
-  ],
-  "alytics^an": [
-    "analytics"
-  ],
-  "am^": [
-    "am"
-  ],
-  "am^dre": [
-    "dream"
-  ],
-  "ame^n": [
-    "name"
-  ],
-  "an^": [
-    "an"
-  ],
-  "an^c": [
-    "can"
-  ],
-  "analytics^": [
-    "analytics"
-  ],
-  "ance^abund": [
-    "abundance"
-  ],
-  "ancial^fin": [
-    "financial"
-  ],
-  "and^": [
-    "and"
-  ],
-  "answer^": [
-    "answer"
-  ],
-  "ant^w": [
-    "want"
-  ],
-  "any^m": [
-    "many"
-  ],
-  "ar^line": [
-    "linear"
-  ],
-  "ard^forw": [
-    "forward"
-  ],
-  "arding^rew": [
-    "rewarding"
-  ],
-  "are^": [
-    "are"
-  ],
-  "arify^cl": [
-    "clarify"
-  ],
-  "arning^le": [
-    "learning"
-  ],
-  "ars^ye": [
-    "years"
-  ],
-  "article^": [
-    "article"
-  ],
-  "as^": [
-    "as"
-  ],
-  "as^h": [
-    "has"
-  ],
-  "as^w": [
-    "was"
-  ],
-  "ased^b": [
-    "based"
-  ],
-  "ased^regression-b": [
-    "regression-based"
-  ],
-  "asn^w": [
-    "wasn"
-  ],
-  "aspects^": [
-    "aspects"
-  ],
-  "aspiring^": [
-    "aspiring"
-  ],
-  "assed^p": [
-    "passed"
-  ],
-  "ast^f": [
-    "fast"
-  ],
-  "at^": [
-    "at"
-  ],
-  "at^th": [
-    "that"
-  ],
-  "ata^d": [
-    "data"
-  ],
-  "ate^advoc": [
-    "advocate"
-  ],
-  "ated^st": [
-    "stated"
-  ],
-  "ates^st": [
-    "states"
-  ],
-  "ating^stimul": [
-    "stimulating"
-  ],
-  "atistical^st": [
-    "statistical"
-  ],
-  "ative^neg": [
-    "negative"
-  ],
-  "attractive^": [
-    "attractive"
-  ],
-  "ause^bec": [
-    "because"
-  ],
-  "ave^h": [
-    "have"
-  ],
-  "ay^pl": [
-    "play"
-  ],
-  "ay^s": [
-    "say"
-  ],
-  "b^jo": [
-    "job"
-  ],
-  "based^": [
-    "based"
-  ],
-  "based^regression-": [
-    "regression-based"
-  ],
-  "be^": [
-    "be"
-  ],
-  "because^": [
-    "because"
-  ],
-  "been^": [
-    "been"
-  ],
-  "before^": [
-    "before"
-  ],
-  "being^": [
-    "being"
-  ],
-  "ber^remem": [
-    "remember"
-  ],
-  "blems^pro": [
-    "problems"
-  ],
-  "boost^xg": [
-    "xgboost"
-  ],
-  "boosting^": [
-    "boosting"
-  ],
-  "boss^": [
-    "boss"
-  ],
-  "both^": [
-    "both"
-  ],
-  "bout^a": [
-    "about"
-  ],
-  "bs^jo": [
-    "jobs"
-  ],
-  "bsolute^a": [
-    "absolute"
-  ],
-  "built^": [
-    "built"
-  ],
-  "bundance^a": [
-    "abundance"
-  ],
-  "but^": [
-    "but"
-  ],
-  "by^": [
-    "by"
-  ],
-  "c^logisti": [
-    "logistic"
-  ],
-  "cal^statisti": [
-    "statistical"
-  ],
-  "cally^typi": [
-    "typically"
-  ],
-  "can^": [
-    "can"
-  ],
-  "cate^advo": [
-    "advocate"
-  ],
-  "cause^be": [
-    "because"
-  ],
-  "ce^abundan": [
-    "abundance"
-  ],
-  "ce^scien": [
-    "science"
-  ],
-  "cent^": [
-    "cent"
-  ],
-  "cently^re": [
-    "recently"
-  ],
-  "century^": [
-    "century"
-  ],
-  "ched^swit": [
-    "switched"
-  ],
-  "chine^ma": [
-    "machine"
-  ],
-  "cial^finan": [
-    "financial"
-  ],
-  "cialists^spe": [
-    "specialists"
-  ],
-  "cience^s": [
-    "science"
-  ],
-  "cientist^s": [
-    "scientist"
-  ],
-  "cientists^s": [
-    "scientists"
-  ],
-  "ck^sta": [
-    "stack"
-  ],
-  "clarify^": [
-    "clarify"
-  ],
-  "cle^arti": [
-    "article"
-  ],
-  "close^": [
-    "close"
-  ],
-  "clusively^ex": [
-    "exclusively"
-  ],
-  "collected^": [
-    "collected"
-  ],
-  "complex^": [
-    "complex"
-  ],
-  "cond^se": [
-    "second"
-  ],
-  "contains^": [
-    "contains"
-  ],
-  "correctly^": [
-    "correctly"
-  ],
-  "courage^dis": [
-    "discourage"
-  ],
-  "cs^analyti": [
-    "analytics"
-  ],
-  "ct^fa": [
-    "fact"
-  ],
-  "cted^colle": [
-    "collected"
-  ],
-  "ctive^attra": [
-    "attractive"
-  ],
-  "ctive^predi": [
-    "predictive"
-  ],
-  "ctly^corre": [
-    "correctly"
-  ],
-  "ctor^fa": [
-    "factor"
-  ],
-  "cts^aspe": [
-    "aspects"
-  ],
-  "d^an": [
-    "and"
-  ],
-  "d^base": [
-    "based"
-  ],
-  "d^collecte": [
-    "collected"
-  ],
-  "d^di": [
-    "did"
-  ],
-  "d^fiel": [
-    "field"
-  ],
-  "d^forwar": [
-    "forward"
-  ],
-  "d^ha": [
-    "had"
-  ],
-  "d^ol": [
-    "old"
-  ],
-  "d^passe": [
-    "passed"
-  ],
-  "d^rea": [
-    "read"
-  ],
-  "d^regression-base": [
-    "regression-based"
-  ],
-  "d^sai": [
-    "said"
-  ],
-  "d^secon": [
-    "second"
-  ],
-  "d^shoul": [
-    "should"
-  ],
-  "d^skille": [
-    "skilled"
-  ],
-  "d^spen": [
-    "spend"
-  ],
-  "d^state": [
-    "stated"
-  ],
-  "d^switche": [
-    "switched"
-  ],
-  "d^toppe": [
-    "topped"
-  ],
-  "d^undispute": [
-    "undisputed"
-  ],
-  "dance^abun": [
-    "abundance"
-  ],
-  "data^": [
-    "data"
-  ],
-  "deling^mo": [
-    "modeling"
-  ],
-  "dels^mo": [
-    "models"
-  ],
-  "developers^": [
-    "developers"
-  ],
-  "devil^": [
-    "devil"
-  ],
-  "dictive^pre": [
-    "predictive"
-  ],
-  "did^": [
-    "did"
-  ],
-  "dient^gra": [
-    "gradient"
-  ],
-  "ding^rewar": [
-    "rewarding"
-  ],
-  "discourage^": [
-    "discourage"
-  ],
-  "disputed^un": [
-    "undisputed"
-  ],
-  "don^": [
-    "don"
-  ],
-  "dream^": [
-    "dream"
-  ],
-  "dvocate^a": [
-    "advocate"
-  ],
-  "e^absolut": [
-    "absolute"
-  ],
-  "e^abundanc": [
-    "abundance"
-  ],
-  "e^advocat": [
-    "advocate"
-  ],
-  "e^alon": [
-    "alone"
-  ],
-  "e^ar": [
-    "are"
-  ],
-  "e^articl": [
-    "article"
-  ],
-  "e^attractiv": [
-    "attractive"
-  ],
-  "e^b": [
-    "be"
-  ],
-  "e^becaus": [
-    "because"
-  ],
-  "e^befor": [
-    "before"
-  ],
-  "e^clos": [
-    "close"
-  ],
-  "e^discourag": [
-    "discourage"
-  ],
-  "e^expos": [
-    "expose"
-  ],
-  "e^extrem": [
-    "extreme"
-  ],
-  "e^furthermor": [
-    "furthermore"
-  ],
-  "e^hav": [
-    "have"
-  ],
-  "e^lik": [
-    "like"
-  ],
-  "e^liv": [
-    "live"
-  ],
-  "e^lov": [
-    "love"
-  ],
-  "e^machin": [
-    "machine"
-  ],
-  "e^mak": [
-    "make"
-  ],
-  "e^nam": [
-    "name"
-  ],
-  "e^negativ": [
-    "negative"
-  ],
-  "e^peopl": [
-    "people"
-  ],
-  "e^positiv": [
-    "positive"
-  ],
-  "e^predictiv": [
-    "predictive"
-  ],
-  "e^scienc": [
-    "science"
-  ],
-  "e^solv": [
-    "solve"
-  ],
-  "e^som": [
-    "some"
-  ],
-  "e^someon": [
-    "someone"
-  ],
-  "e^tenur": [
-    "tenure"
-  ],
-  "e^th": [
-    "the"
-  ],
-  "e^ther": [
-    "there"
-  ],
-  "e^thes": [
-    "these"
-  ],
-  "e^tim": [
-    "time"
-  ],
-  "e^titl": [
-    "title"
-  ],
-  "e^w": [
-    "we"
-  ],
-  "e^wer": [
-    "were"
-  ],
-  "e^whol": [
-    "whole"
-  ],
-  "ead^r": [
-    "read"
-  ],
-  "eam^dr": [
-    "dream"
-  ],
-  "ear^lin": [
-    "linear"
-  ],
-  "earning^l": [
-    "learning"
-  ],
-  "ears^y": [
-    "years"
-  ],
-  "ecause^b": [
-    "because"
-  ],
-  "ecently^r": [
-    "recently"
-  ],
-  "ecialists^sp": [
-    "specialists"
-  ],
-  "econd^s": [
-    "second"
-  ],
-  "ected^coll": [
-    "collected"
-  ],
-  "ectly^corr": [
-    "correctly"
-  ],
-  "ects^asp": [
-    "aspects"
-  ],
-  "ed^bas": [
-    "based"
-  ],
-  "ed^collect": [
-    "collected"
-  ],
-  "ed^pass": [
-    "passed"
-  ],
-  "ed^regression-bas": [
-    "regression-based"
-  ],
-  "ed^skill": [
-    "skilled"
-  ],
-  "ed^stat": [
-    "stated"
-  ],
-  "ed^switch": [
-    "switched"
-  ],
-  "ed^topp": [
-    "topped"
-  ],
-  "ed^undisput": [
-    "undisputed"
-  ],
-  "edictive^pr": [
-    "predictive"
-  ],
-  "eek^g": [
-    "geek"
-  ],
-  "eek^w": [
-    "week"
-  ],
-  "eeking^g": [
-    "geeking"
-  ],
-  "eem^s": [
-    "seem"
-  ],
-  "een^b": [
-    "been"
-  ],
-  "een^fift": [
-    "fifteen"
-  ],
-  "een^qu": [
-    "queen"
-  ],
-  "efore^b": [
-    "before"
-  ],
-  "egative^n": [
-    "negative"
-  ],
-  "egression-based^r": [
-    "regression-based"
-  ],
-  "egression^r": [
-    "regression"
-  ],
-  "eing^b": [
-    "being"
-  ],
-  "eir^th": [
-    "their"
-  ],
-  "ek^ge": [
-    "geek"
-  ],
-  "ek^we": [
-    "week"
-  ],
-  "eking^ge": [
-    "geeking"
-  ],
-  "eld^fi": [
-    "field"
-  ],
-  "elf^mys": [
-    "myself"
-  ],
-  "eling^mod": [
-    "modeling"
-  ],
-  "elopers^dev": [
-    "developers"
-  ],
-  "els^mod": [
-    "models"
-  ],
-  "ely^exclusiv": [
-    "exclusively"
-  ],
-  "em^se": [
-    "seem"
-  ],
-  "ember^rem": [
-    "remember"
-  ],
-  "eme^extr": [
-    "extreme"
-  ],
-  "emember^r": [
-    "remember"
-  ],
-  "ems^probl": [
-    "problems"
-  ],
-  "en^be": [
-    "been"
-  ],
-  "en^fifte": [
-    "fifteen"
-  ],
-  "en^que": [
-    "queen"
-  ],
-  "ence^sci": [
-    "science"
-  ],
-  "end^sp": [
-    "spend"
-  ],
-  "ent^c": [
-    "cent"
-  ],
-  "ent^gradi": [
-    "gradient"
-  ],
-  "entist^sci": [
-    "scientist"
-  ],
-  "entists^sci": [
-    "scientists"
-  ],
-  "ently^rec": [
-    "recently"
-  ],
-  "entury^c": [
-    "century"
-  ],
-  "enure^t": [
-    "tenure"
-  ],
-  "eone^som": [
-    "someone"
-  ],
-  "eople^p": [
-    "people"
-  ],
-  "er^answ": [
-    "answer"
-  ],
-  "er^ov": [
-    "over"
-  ],
-  "er^p": [
-    "per"
-  ],
-  "er^rememb": [
-    "remember"
-  ],
-  "era^": [
-    "era"
-  ],
-  "ere^th": [
-    "there"
-  ],
-  "ere^w": [
-    "were"
-  ],
-  "erflow^ov": [
-    "overflow"
-  ],
-  "ermore^furth": [
-    "furthermore"
-  ],
-  "ers^develop": [
-    "developers"
-  ],
-  "ers^oth": [
-    "others"
-  ],
-  "erything^ev": [
-    "everything"
-  ],
-  "es^stat": [
-    "states"
-  ],
-  "es^stori": [
-    "stories"
-  ],
-  "es^tim": [
-    "times"
-  ],
-  "es^y": [
-    "yes"
-  ],
-  "ese^th": [
-    "these"
-  ],
-  "ession-based^regr": [
-    "regression-based"
-  ],
-  "ession^regr": [
-    "regression"
-  ],
-  "est^sexi": [
-    "sexiest"
-  ],
-  "estion^qu": [
-    "question"
-  ],
-  "evelopers^d": [
-    "developers"
-  ],
-  "everything^": [
-    "everything"
-  ],
-  "evil^d": [
-    "devil"
-  ],
-  "ew^kn": [
-    "knew"
-  ],
-  "ew^n": [
-    "new"
-  ],
-  "ewarding^r": [
-    "rewarding"
-  ],
-  "ex^compl": [
-    "complex"
-  ],
-  "exclusively^": [
-    "exclusively"
-  ],
-  "exiest^s": [
-    "sexiest"
-  ],
-  "expose^": [
-    "expose"
-  ],
-  "extreme^": [
-    "extreme"
-  ],
-  "ey^mon": [
-    "money"
-  ],
-  "ey^surv": [
-    "survey"
-  ],
-  "ey^th": [
-    "they"
-  ],
-  "f^mysel": [
-    "myself"
-  ],
-  "f^o": [
-    "of"
-  ],
-  "fact^": [
-    "fact"
-  ],
-  "factor^": [
-    "factor"
-  ],
-  "fast^": [
-    "fast"
-  ],
-  "field^": [
-    "field"
-  ],
-  "fifteen^": [
-    "fifteen"
-  ],
-  "financial^": [
-    "financial"
-  ],
-  "flow^over": [
-    "overflow"
-  ],
-  "for^": [
-    "for"
-  ],
-  "fore^be": [
-    "before"
-  ],
-  "forward^": [
-    "forward"
-  ],
-  "from^": [
-    "from"
-  ],
-  "fteen^fi": [
-    "fifteen"
-  ],
-  "fun^": [
-    "fun"
-  ],
-  "funky^": [
-    "funky"
-  ],
-  "furthermore^": [
-    "furthermore"
-  ],
-  "fy^clari": [
-    "clarify"
-  ],
-  "g^aspirin": [
-    "aspiring"
-  ],
-  "g^bein": [
-    "being"
-  ],
-  "g^boostin": [
-    "boosting"
-  ],
-  "g^everythin": [
-    "everything"
-  ],
-  "g^geekin": [
-    "geeking"
-  ],
-  "g^learnin": [
-    "learning"
-  ],
-  "g^lon": [
-    "long"
-  ],
-  "g^lookin": [
-    "looking"
-  ],
-  "g^modelin": [
-    "modeling"
-  ],
-  "g^rewardin": [
-    "rewarding"
-  ],
-  "g^stimulatin": [
-    "stimulating"
-  ],
-  "g^thin": [
-    "thing"
-  ],
-  "g^thinkin": [
-    "thinking"
-  ],
-  "gative^ne": [
-    "negative"
-  ],
-  "gboost^x": [
-    "xgboost"
-  ],
-  "ge^discoura": [
-    "discourage"
-  ],
-  "geek^": [
-    "geek"
-  ],
-  "geeking^": [
-    "geeking"
-  ],
-  "ghly^hi": [
-    "highly"
-  ],
-  "ght^ri": [
-    "right"
-  ],
-  "gistic^lo": [
-    "logistic"
-  ],
-  "got^": [
-    "got"
-  ],
-  "gradient^": [
-    "gradient"
-  ],
-  "gression-based^re": [
-    "regression-based"
-  ],
-  "gression^re": [
-    "regression"
-  ],
-  "h^bot": [
-    "both"
-  ],
-  "h^trut": [
-    "truth"
-  ],
-  "h^wit": [
-    "with"
-  ],
-  "had^": [
-    "had"
-  ],
-  "has^": [
-    "has"
-  ],
-  "hat^t": [
-    "that"
-  ],
-  "have^": [
-    "have"
-  ],
-  "he^t": [
-    "the"
-  ],
-  "hed^switc": [
-    "switched"
-  ],
-  "heir^t": [
-    "their"
-  ],
-  "here^t": [
-    "there"
-  ],
-  "hermore^furt": [
-    "furthermore"
-  ],
-  "hers^ot": [
-    "others"
-  ],
-  "hese^t": [
-    "these"
-  ],
-  "hey^t": [
-    "they"
-  ],
-  "highly^": [
-    "highly"
-  ],
-  "hine^mac": [
-    "machine"
-  ],
-  "hing^everyt": [
-    "everything"
-  ],
-  "hing^t": [
-    "thing"
-  ],
-  "hinking^t": [
-    "thinking"
-  ],
-  "his^t": [
-    "this"
-  ],
-  "hly^hig": [
-    "highly"
-  ],
-  "ho^w": [
-    "who"
-  ],
-  "hole^w": [
-    "whole"
-  ],
-  "hould^s": [
-    "should"
-  ],
-  "hours^": [
-    "hours"
-  ],
-  "ht^rig": [
-    "right"
-  ],
-  "hy^w": [
-    "why"
-  ],
-  "i^": [
-    "i"
-  ],
-  "ial^financ": [
-    "financial"
-  ],
-  "ialists^spec": [
-    "specialists"
-  ],
-  "ic^logist": [
-    "logistic"
-  ],
-  "ical^statist": [
-    "statistical"
-  ],
-  "ically^typ": [
-    "typically"
-  ],
-  "icle^art": [
-    "article"
-  ],
-  "ics^analyt": [
-    "analytics"
-  ],
-  "ictive^pred": [
-    "predictive"
-  ],
-  "id^d": [
-    "did"
-  ],
-  "id^sa": [
-    "said"
-  ],
-  "ield^f": [
-    "field"
-  ],
-  "ience^sc": [
-    "science"
-  ],
-  "ient^grad": [
-    "gradient"
-  ],
-  "ientist^sc": [
-    "scientist"
-  ],
-  "ientists^sc": [
-    "scientists"
-  ],
-  "ies^stor": [
-    "stories"
-  ],
-  "iest^sex": [
-    "sexiest"
-  ],
-  "ifteen^f": [
-    "fifteen"
-  ],
-  "ify^clar": [
-    "clarify"
-  ],
-  "ighly^h": [
-    "highly"
-  ],
-  "ight^r": [
-    "right"
-  ],
-  "ike^l": [
-    "like"
-  ],
-  "il^dev": [
-    "devil"
-  ],
-  "ill^st": [
-    "still"
-  ],
-  "illed^sk": [
-    "skilled"
-  ],
-  "ilt^bu": [
-    "built"
-  ],
-  "im^a": [
-    "aim"
-  ],
-  "ime^t": [
-    "time"
-  ],
-  "imes^t": [
-    "times"
-  ],
-  "imulating^st": [
-    "stimulating"
-  ],
-  "in^": [
-    "in"
-  ],
-  "inancial^f": [
-    "financial"
-  ],
-  "ine^mach": [
-    "machine"
-  ],
-  "inear^l": [
-    "linear"
-  ],
-  "ing^aspir": [
-    "aspiring"
-  ],
-  "ing^be": [
-    "being"
-  ],
-  "ing^boost": [
-    "boosting"
-  ],
-  "ing^everyth": [
-    "everything"
-  ],
-  "ing^geek": [
-    "geeking"
-  ],
-  "ing^learn": [
-    "learning"
-  ],
-  "ing^look": [
-    "looking"
-  ],
-  "ing^model": [
-    "modeling"
-  ],
-  "ing^reward": [
-    "rewarding"
-  ],
-  "ing^stimulat": [
-    "stimulating"
-  ],
-  "ing^th": [
-    "thing"
-  ],
-  "ing^think": [
-    "thinking"
-  ],
-  "inking^th": [
-    "thinking"
-  ],
-  "ins^conta": [
-    "contains"
-  ],
-  "ion-based^regress": [
-    "regression-based"
-  ],
-  "ion^posit": [
-    "position"
-  ],
-  "ion^quest": [
-    "question"
-  ],
-  "ion^regress": [
-    "regression"
-  ],
-  "ir^the": [
-    "their"
-  ],
-  "iring^asp": [
-    "aspiring"
-  ],
-  "is^": [
-    "is"
-  ],
-  "is^th": [
-    "this"
-  ],
-  "iscourage^d": [
-    "discourage"
-  ],
-  "isputed^und": [
-    "undisputed"
-  ],
-  "ist^l": [
-    "list"
-  ],
-  "ist^scient": [
-    "scientist"
-  ],
-  "istic^log": [
-    "logistic"
-  ],
-  "istical^stat": [
-    "statistical"
-  ],
-  "ists^scient": [
-    "scientists"
-  ],
-  "ists^special": [
-    "specialists"
-  ],
-  "it^": [
-    "it"
-  ],
-  "itched^sw": [
-    "switched"
-  ],
-  "ith^w": [
-    "with"
-  ],
-  "ition^pos": [
-    "position"
-  ],
-  "itive^pos": [
-    "positive"
-  ],
-  "itle^t": [
-    "title"
-  ],
-  "its^": [
-    "its"
-  ],
-  "ive^attract": [
-    "attractive"
-  ],
-  "ive^l": [
-    "live"
-  ],
-  "ive^negat": [
-    "negative"
-  ],
-  "ive^posit": [
-    "positive"
-  ],
-  "ive^predict": [
-    "predictive"
-  ],
-  "ively^exclus": [
-    "exclusively"
-  ],
-  "job^": [
-    "job"
-  ],
-  "jobs^": [
-    "jobs"
-  ],
-  "k^gee": [
-    "geek"
-  ],
-  "k^stac": [
-    "stack"
-  ],
-  "k^wee": [
-    "week"
-  ],
-  "ke^li": [
-    "like"
-  ],
-  "ke^ma": [
-    "make"
-  ],
-  "killed^s": [
-    "skilled"
-  ],
-  "king^gee": [
-    "geeking"
-  ],
-  "king^loo": [
-    "looking"
-  ],
-  "king^thin": [
-    "thinking"
-  ],
-  "knew^": [
-    "knew"
-  ],
-  "ky^fun": [
-    "funky"
-  ],
-  "l^devi": [
-    "devil"
-  ],
-  "l^financia": [
-    "financial"
-  ],
-  "l^statistica": [
-    "statistical"
-  ],
-  "l^stil": [
-    "still"
-  ],
-  "larify^c": [
-    "clarify"
-  ],
-  "lating^stimu": [
-    "stimulating"
-  ],
-  "lay^p": [
-    "play"
-  ],
-  "ld^fie": [
-    "field"
-  ],
-  "ld^o": [
-    "old"
-  ],
-  "ld^shou": [
-    "should"
-  ],
-  "le^artic": [
-    "article"
-  ],
-  "le^peop": [
-    "people"
-  ],
-  "le^tit": [
-    "title"
-  ],
-  "le^who": [
-    "whole"
-  ],
-  "learning^": [
-    "learning"
-  ],
-  "lected^col": [
-    "collected"
-  ],
-  "led^skil": [
-    "skilled"
-  ],
-  "lems^prob": [
-    "problems"
-  ],
-  "lex^comp": [
-    "complex"
-  ],
-  "lf^myse": [
-    "myself"
-  ],
-  "like^": [
-    "like"
-  ],
-  "linear^": [
-    "linear"
-  ],
-  "ling^mode": [
-    "modeling"
-  ],
-  "list^": [
-    "list"
-  ],
-  "lists^specia": [
-    "specialists"
-  ],
-  "live^": [
-    "live"
-  ],
-  "ll^sti": [
-    "still"
-  ],
-  "llected^co": [
-    "collected"
-  ],
-  "lled^ski": [
-    "skilled"
-  ],
-  "lly^typica": [
-    "typically"
-  ],
-  "logistic^": [
-    "logistic"
-  ],
-  "lone^a": [
-    "alone"
-  ],
-  "long^": [
-    "long"
-  ],
-  "looking^": [
-    "looking"
-  ],
-  "lopers^deve": [
-    "developers"
-  ],
-  "lose^c": [
-    "close"
-  ],
-  "love^": [
-    "love"
-  ],
-  "low^overf": [
-    "overflow"
-  ],
-  "ls^mode": [
-    "models"
-  ],
-  "lso^a": [
-    "also"
-  ],
-  "lt^bui": [
-    "built"
-  ],
-  "lusively^exc": [
-    "exclusively"
-  ],
-  "lute^abso": [
-    "absolute"
-  ],
-  "lve^so": [
-    "solve"
-  ],
-  "ly^correct": [
-    "correctly"
-  ],
-  "ly^exclusive": [
-    "exclusively"
-  ],
-  "ly^high": [
-    "highly"
-  ],
-  "ly^recent": [
-    "recently"
-  ],
-  "ly^typical": [
-    "typically"
-  ],
-  "lytics^ana": [
-    "analytics"
-  ],
-  "m^a": [
-    "am"
-  ],
-  "m^ai": [
-    "aim"
-  ],
-  "m^drea": [
-    "dream"
-  ],
-  "m^fro": [
-    "from"
-  ],
-  "m^see": [
-    "seem"
-  ],
-  "machine^": [
-    "machine"
-  ],
-  "make^": [
-    "make"
-  ],
-  "many^": [
-    "many"
-  ],
-  "mber^reme": [
-    "remember"
-  ],
-  "me^extre": [
-    "extreme"
-  ],
-  "me^na": [
-    "name"
-  ],
-  "me^so": [
-    "some"
-  ],
-  "me^ti": [
-    "time"
-  ],
-  "member^re": [
-    "remember"
-  ],
-  "meone^so": [
-    "someone"
-  ],
-  "mes^ti": [
-    "times"
-  ],
-  "modeling^": [
-    "modeling"
-  ],
-  "models^": [
-    "models"
-  ],
-  "money^": [
-    "money"
-  ],
-  "more^further": [
-    "furthermore"
-  ],
-  "mplex^co": [
-    "complex"
-  ],
-  "ms^proble": [
-    "problems"
-  ],
-  "ms^su": [
-    "sums"
-  ],
-  "mulating^sti": [
-    "stimulating"
-  ],
-  "my^": [
-    "my"
-  ],
-  "myself^": [
-    "myself"
-  ],
-  "n-based^regressio": [
-    "regression-based"
-  ],
-  "n^a": [
-    "an"
-  ],
-  "n^bee": [
-    "been"
-  ],
-  "n^ca": [
-    "can"
-  ],
-  "n^do": [
-    "don"
-  ],
-  "n^fiftee": [
-    "fifteen"
-  ],
-  "n^fu": [
-    "fun"
-  ],
-  "n^i": [
-    "in"
-  ],
-  "n^o": [
-    "on"
-  ],
-  "n^positio": [
-    "position"
-  ],
-  "n^quee": [
-    "queen"
-  ],
-  "n^questio": [
-    "question"
-  ],
-  "n^regressio": [
-    "regression"
-  ],
-  "n^was": [
-    "wasn"
-  ],
-  "nalytics^a": [
-    "analytics"
-  ],
-  "name^": [
-    "name"
-  ],
-  "nancial^fi": [
-    "financial"
-  ],
-  "nce^abunda": [
-    "abundance"
-  ],
-  "nce^scie": [
-    "science"
-  ],
-  "ncial^fina": [
-    "financial"
-  ],
-  "nd^a": [
-    "and"
-  ],
-  "nd^seco": [
-    "second"
-  ],
-  "nd^spe": [
-    "spend"
-  ],
-  "ndance^abu": [
-    "abundance"
-  ],
-  "ndisputed^u": [
-    "undisputed"
-  ],
-  "ne^alo": [
-    "alone"
-  ],
-  "ne^machi": [
-    "machine"
-  ],
-  "ne^someo": [
-    "someone"
-  ],
-  "near^li": [
-    "linear"
-  ],
-  "negative^": [
-    "negative"
-  ],
-  "new^": [
-    "new"
-  ],
-  "new^k": [
-    "knew"
-  ],
-  "ney^mo": [
-    "money"
-  ],
-  "ng^aspiri": [
-    "aspiring"
-  ],
-  "ng^bei": [
-    "being"
-  ],
-  "ng^boosti": [
-    "boosting"
-  ],
-  "ng^everythi": [
-    "everything"
-  ],
-  "ng^geeki": [
-    "geeking"
-  ],
-  "ng^learni": [
-    "learning"
-  ],
-  "ng^lo": [
-    "long"
-  ],
-  "ng^looki": [
-    "looking"
-  ],
-  "ng^modeli": [
-    "modeling"
-  ],
-  "ng^rewardi": [
-    "rewarding"
-  ],
-  "ng^stimulati": [
-    "stimulating"
-  ],
-  "ng^thi": [
-    "thing"
-  ],
-  "ng^thinki": [
-    "thinking"
-  ],
-  "ning^lear": [
-    "learning"
-  ],
-  "nking^thi": [
-    "thinking"
-  ],
-  "nky^fu": [
-    "funky"
-  ],
-  "ns^contai": [
-    "contains"
-  ],
-  "nswer^a": [
-    "answer"
-  ],
-  "nt^ce": [
-    "cent"
-  ],
-  "nt^gradie": [
-    "gradient"
-  ],
-  "nt^wa": [
-    "want"
-  ],
-  "ntains^co": [
-    "contains"
-  ],
-  "ntist^scie": [
-    "scientist"
-  ],
-  "ntists^scie": [
-    "scientists"
-  ],
-  "ntly^rece": [
-    "recently"
-  ],
-  "ntury^ce": [
-    "century"
-  ],
-  "nure^te": [
-    "tenure"
-  ],
-  "ny^ma": [
-    "many"
-  ],
-  "o^als": [
-    "also"
-  ],
-  "o^s": [
-    "so"
-  ],
-  "o^t": [
-    "to"
-  ],
-  "o^to": [
-    "too"
-  ],
-  "o^wh": [
-    "who"
-  ],
-  "ob^j": [
-    "job"
-  ],
-  "oblems^pr": [
-    "problems"
-  ],
-  "obs^j": [
-    "jobs"
-  ],
-  "ocate^adv": [
-    "advocate"
-  ],
-  "odeling^m": [
-    "modeling"
-  ],
-  "odels^m": [
-    "models"
-  ],
-  "of^": [
-    "of"
-  ],
-  "ogistic^l": [
-    "logistic"
-  ],
-  "oking^lo": [
-    "looking"
-  ],
-  "old^": [
-    "old"
-  ],
-  "ole^wh": [
-    "whole"
-  ],
-  "ollected^c": [
-    "collected"
-  ],
-  "olute^abs": [
-    "absolute"
-  ],
-  "olve^s": [
-    "solve"
-  ],
-  "om^fr": [
-    "from"
-  ],
-  "ome^s": [
-    "some"
-  ],
-  "omeone^s": [
-    "someone"
-  ],
-  "omplex^c": [
-    "complex"
-  ],
-  "on-based^regressi": [
-    "regression-based"
-  ],
-  "on^": [
-    "on"
-  ],
-  "on^d": [
-    "don"
-  ],
-  "on^positi": [
-    "position"
-  ],
-  "on^questi": [
-    "question"
-  ],
-  "on^regressi": [
-    "regression"
-  ],
-  "ond^sec": [
-    "second"
-  ],
-  "one^al": [
-    "alone"
-  ],
-  "one^some": [
-    "someone"
-  ],
-  "oney^m": [
-    "money"
-  ],
-  "ong^l": [
-    "long"
-  ],
-  "ontains^c": [
-    "contains"
-  ],
-  "oo^t": [
-    "too"
-  ],
-  "ooking^l": [
-    "looking"
-  ],
-  "oost^xgb": [
-    "xgboost"
-  ],
-  "oosting^b": [
-    "boosting"
-  ],
-  "opers^devel": [
-    "developers"
-  ],
-  "ople^pe": [
-    "people"
-  ],
-  "opped^t": [
-    "topped"
-  ],
-  "or^": [
-    "or"
-  ],
-  "or^f": [
-    "for"
-  ],
-  "or^fact": [
-    "factor"
-  ],
-  "ore^bef": [
-    "before"
-  ],
-  "ore^furtherm": [
-    "furthermore"
-  ],
-  "ories^st": [
-    "stories"
-  ],
-  "orrectly^c": [
-    "correctly"
-  ],
-  "orward^f": [
-    "forward"
-  ],
-  "ose^cl": [
-    "close"
-  ],
-  "ose^exp": [
-    "expose"
-  ],
-  "osition^p": [
-    "position"
-  ],
-  "ositive^p": [
-    "positive"
-  ],
-  "oss^b": [
-    "boss"
-  ],
-  "ost^xgbo": [
-    "xgboost"
-  ],
-  "osting^bo": [
-    "boosting"
-  ],
-  "ot^g": [
-    "got"
-  ],
-  "oth^b": [
-    "both"
-  ],
-  "others^": [
-    "others"
-  ],
-  "ou^y": [
-    "you"
-  ],
-  "ould^sh": [
-    "should"
-  ],
-  "ourage^disc": [
-    "discourage"
-  ],
-  "ours^h": [
-    "hours"
-  ],
-  "out^": [
-    "out"
-  ],
-  "out^ab": [
-    "about"
-  ],
-  "ove^l": [
-    "love"
-  ],
-  "over^": [
-    "over"
-  ],
-  "overflow^": [
-    "overflow"
-  ],
-  "ow^overfl": [
-    "overflow"
-  ],
-  "passed^": [
-    "passed"
-  ],
-  "pecialists^s": [
-    "specialists"
-  ],
-  "pects^as": [
-    "aspects"
-  ],
-  "ped^top": [
-    "topped"
-  ],
-  "pend^s": [
-    "spend"
-  ],
-  "people^": [
-    "people"
-  ],
-  "per^": [
-    "per"
-  ],
-  "pers^develo": [
-    "developers"
-  ],
-  "pically^ty": [
-    "typically"
-  ],
-  "piring^as": [
-    "aspiring"
-  ],
-  "play^": [
-    "play"
-  ],
-  "ple^peo": [
-    "people"
-  ],
-  "plex^com": [
-    "complex"
-  ],
-  "pose^ex": [
-    "expose"
-  ],
-  "position^": [
-    "position"
-  ],
-  "positive^": [
-    "positive"
-  ],
-  "pped^to": [
-    "topped"
-  ],
-  "predictive^": [
-    "predictive"
-  ],
-  "problems^": [
-    "problems"
-  ],
-  "puted^undis": [
-    "undisputed"
-  ],
-  "queen^": [
-    "queen"
-  ],
-  "question^": [
-    "question"
-  ],
-  "r^answe": [
-    "answer"
-  ],
-  "r^facto": [
-    "factor"
-  ],
-  "r^fo": [
-    "for"
-  ],
-  "r^linea": [
-    "linear"
-  ],
-  "r^o": [
-    "or"
-  ],
-  "r^ove": [
-    "over"
-  ],
-  "r^pe": [
-    "per"
-  ],
-  "r^remembe": [
-    "remember"
-  ],
-  "r^thei": [
-    "their"
-  ],
-  "ra^e": [
-    "era"
-  ],
-  "ractive^att": [
-    "attractive"
-  ],
-  "radient^g": [
-    "gradient"
-  ],
-  "rage^discou": [
-    "discourage"
-  ],
-  "rd^forwa": [
-    "forward"
-  ],
-  "rding^rewa": [
-    "rewarding"
-  ],
-  "re^a": [
-    "are"
-  ],
-  "re^befo": [
-    "before"
-  ],
-  "re^furthermo": [
-    "furthermore"
-  ],
-  "re^tenu": [
-    "tenure"
-  ],
-  "re^the": [
-    "there"
-  ],
-  "re^we": [
-    "were"
-  ],
-  "read^": [
-    "read"
-  ],
-  "ream^d": [
-    "dream"
-  ],
-  "recently^": [
-    "recently"
-  ],
-  "rectly^cor": [
-    "correctly"
-  ],
-  "redictive^p": [
-    "predictive"
-  ],
-  "regression-based^": [
-    "regression-based"
-  ],
-  "regression^": [
-    "regression"
-  ],
-  "reme^ext": [
-    "extreme"
-  ],
-  "remember^": [
-    "remember"
-  ],
-  "ression-based^reg": [
-    "regression-based"
-  ],
-  "ression^reg": [
-    "regression"
-  ],
-  "rewarding^": [
-    "rewarding"
-  ],
-  "rflow^ove": [
-    "overflow"
-  ],
-  "ries^sto": [
-    "stories"
-  ],
-  "rify^cla": [
-    "clarify"
-  ],
-  "right^": [
-    "right"
-  ],
-  "ring^aspi": [
-    "aspiring"
-  ],
-  "rmore^furthe": [
-    "furthermore"
-  ],
-  "rning^lea": [
-    "learning"
-  ],
-  "roblems^p": [
-    "problems"
-  ],
-  "rom^f": [
-    "from"
-  ],
-  "rrectly^co": [
-    "correctly"
-  ],
-  "rs^develope": [
-    "developers"
-  ],
-  "rs^hou": [
-    "hours"
-  ],
-  "rs^othe": [
-    "others"
-  ],
-  "rs^yea": [
-    "years"
-  ],
-  "rthermore^fu": [
-    "furthermore"
-  ],
-  "rticle^a": [
-    "article"
-  ],
-  "ruth^t": [
-    "truth"
-  ],
-  "rvey^su": [
-    "survey"
-  ],
-  "rward^fo": [
-    "forward"
-  ],
-  "ry^centu": [
-    "century"
-  ],
-  "rything^eve": [
-    "everything"
-  ],
-  "s^a": [
-    "as"
-  ],
-  "s^analytic": [
-    "analytics"
-  ],
-  "s^aspect": [
-    "aspects"
-  ],
-  "s^bos": [
-    "boss"
-  ],
-  "s^contain": [
-    "contains"
-  ],
-  "s^developer": [
-    "developers"
-  ],
-  "s^ha": [
-    "has"
-  ],
-  "s^hour": [
-    "hours"
-  ],
-  "s^i": [
-    "is"
-  ],
-  "s^it": [
-    "its"
-  ],
-  "s^job": [
-    "jobs"
-  ],
-  "s^model": [
-    "models"
-  ],
-  "s^other": [
-    "others"
-  ],
-  "s^problem": [
-    "problems"
-  ],
-  "s^scientist": [
-    "scientists"
-  ],
-  "s^specialist": [
-    "specialists"
-  ],
-  "s^state": [
-    "states"
-  ],
-  "s^storie": [
-    "stories"
-  ],
-  "s^sum": [
-    "sums"
-  ],
-  "s^thi": [
-    "this"
-  ],
-  "s^time": [
-    "times"
-  ],
-  "s^wa": [
-    "was"
-  ],
-  "s^ye": [
-    "yes"
-  ],
-  "s^year": [
-    "years"
-  ],
-  "said^": [
-    "said"
-  ],
-  "say^": [
-    "say"
-  ],
-  "science^": [
-    "science"
-  ],
-  "scientist^": [
-    "scientist"
-  ],
-  "scientists^": [
-    "scientists"
-  ],
-  "scourage^di": [
-    "discourage"
-  ],
-  "se^becau": [
-    "because"
-  ],
-  "se^clo": [
-    "close"
-  ],
-  "se^expo": [
-    "expose"
-  ],
-  "se^the": [
-    "these"
-  ],
-  "second^": [
-    "second"
-  ],
-  "sed^ba": [
-    "based"
-  ],
-  "sed^pas": [
-    "passed"
-  ],
-  "sed^regression-ba": [
-    "regression-based"
-  ],
-  "seem^": [
-    "seem"
-  ],
-  "self^my": [
-    "myself"
-  ],
-  "sexiest^": [
-    "sexiest"
-  ],
-  "should^": [
-    "should"
-  ],
-  "sion-based^regres": [
-    "regression-based"
-  ],
-  "sion^regres": [
-    "regression"
-  ],
-  "sition^po": [
-    "position"
-  ],
-  "sitive^po": [
-    "positive"
-  ],
-  "sively^exclu": [
-    "exclusively"
-  ],
-  "skilled^": [
-    "skilled"
-  ],
-  "sn^wa": [
-    "wasn"
-  ],
-  "so^": [
-    "so"
-  ],
-  "so^al": [
-    "also"
-  ],
-  "solute^ab": [
-    "absolute"
-  ],
-  "solve^": [
-    "solve"
-  ],
-  "some^": [
-    "some"
-  ],
-  "someone^": [
-    "someone"
-  ],
-  "specialists^": [
-    "specialists"
-  ],
-  "spects^a": [
-    "aspects"
-  ],
-  "spend^": [
-    "spend"
-  ],
-  "spiring^a": [
-    "aspiring"
-  ],
-  "sputed^undi": [
-    "undisputed"
-  ],
-  "ss^bo": [
-    "boss"
-  ],
-  "ssed^pa": [
-    "passed"
-  ],
-  "ssion-based^regre": [
-    "regression-based"
-  ],
-  "ssion^regre": [
-    "regression"
-  ],
-  "st^fa": [
-    "fast"
-  ],
-  "st^li": [
-    "list"
-  ],
-  "st^scienti": [
-    "scientist"
-  ],
-  "st^sexie": [
-    "sexiest"
-  ],
-  "st^xgboo": [
-    "xgboost"
-  ],
-  "stack^": [
-    "stack"
-  ],
-  "stated^": [
-    "stated"
-  ],
-  "states^": [
-    "states"
-  ],
-  "statistical^": [
-    "statistical"
-  ],
-  "stic^logi": [
-    "logistic"
-  ],
-  "stical^stati": [
-    "statistical"
-  ],
-  "still^": [
-    "still"
-  ],
-  "stimulating^": [
-    "stimulating"
-  ],
-  "sting^boo": [
-    "boosting"
-  ],
-  "stion^que": [
-    "question"
-  ],
-  "stories^": [
-    "stories"
-  ],
-  "sts^scienti": [
-    "scientists"
-  ],
-  "sts^speciali": [
-    "specialists"
-  ],
-  "sums^": [
-    "sums"
-  ],
-  "survey^": [
-    "survey"
-  ],
-  "swer^an": [
-    "answer"
-  ],
-  "switched^": [
-    "switched"
-  ],
-  "t^a": [
-    "at"
-  ],
-  "t^abou": [
-    "about"
-  ],
-  "t^bu": [
-    "but"
-  ],
-  "t^buil": [
-    "built"
-  ],
-  "t^cen": [
-    "cent"
-  ],
-  "t^fac": [
-    "fact"
-  ],
-  "t^fas": [
-    "fast"
-  ],
-  "t^go": [
-    "got"
-  ],
-  "t^gradien": [
-    "gradient"
-  ],
-  "t^i": [
-    "it"
-  ],
-  "t^lis": [
-    "list"
-  ],
-  "t^ou": [
-    "out"
-  ],
-  "t^righ": [
-    "right"
-  ],
-  "t^scientis": [
-    "scientist"
-  ],
-  "t^sexies": [
-    "sexiest"
-  ],
-  "t^tha": [
-    "that"
-  ],
-  "t^wan": [
-    "want"
-  ],
-  "t^xgboos": [
-    "xgboost"
-  ],
-  "ta^da": [
-    "data"
-  ],
-  "tack^s": [
-    "stack"
-  ],
-  "tains^con": [
-    "contains"
-  ],
-  "tated^s": [
-    "stated"
-  ],
-  "tates^s": [
-    "states"
-  ],
-  "tatistical^s": [
-    "statistical"
-  ],
-  "tched^swi": [
-    "switched"
-  ],
-  "te^absolu": [
-    "absolute"
-  ],
-  "te^advoca": [
-    "advocate"
-  ],
-  "ted^collec": [
-    "collected"
-  ],
-  "ted^sta": [
-    "stated"
-  ],
-  "ted^undispu": [
-    "undisputed"
-  ],
-  "teen^fif": [
-    "fifteen"
-  ],
-  "tenure^": [
-    "tenure"
-  ],
-  "tes^sta": [
-    "states"
-  ],
-  "th^bo": [
-    "both"
-  ],
-  "th^tru": [
-    "truth"
-  ],
-  "th^wi": [
-    "with"
-  ],
-  "that^": [
-    "that"
-  ],
-  "the^": [
-    "the"
-  ],
-  "their^": [
-    "their"
-  ],
-  "there^": [
-    "there"
-  ],
-  "thermore^fur": [
-    "furthermore"
-  ],
-  "thers^o": [
-    "others"
-  ],
-  "these^": [
-    "these"
-  ],
-  "they^": [
-    "they"
-  ],
-  "thing^": [
-    "thing"
-  ],
-  "thing^every": [
-    "everything"
-  ],
-  "thinking^": [
-    "thinking"
-  ],
-  "this^": [
-    "this"
-  ],
-  "tic^logis": [
-    "logistic"
-  ],
-  "tical^statis": [
-    "statistical"
-  ],
-  "ticle^ar": [
-    "article"
-  ],
-  "tics^analy": [
-    "analytics"
-  ],
-  "till^s": [
-    "still"
-  ],
-  "time^": [
-    "time"
-  ],
-  "times^": [
-    "times"
-  ],
-  "timulating^s": [
-    "stimulating"
-  ],
-  "ting^boos": [
-    "boosting"
-  ],
-  "ting^stimula": [
-    "stimulating"
-  ],
-  "tion^posi": [
-    "position"
-  ],
-  "tion^ques": [
-    "question"
-  ],
-  "tist^scien": [
-    "scientist"
-  ],
-  "tistical^sta": [
-    "statistical"
-  ],
-  "tists^scien": [
-    "scientists"
-  ],
-  "title^": [
-    "title"
-  ],
-  "tive^attrac": [
-    "attractive"
-  ],
-  "tive^nega": [
-    "negative"
-  ],
-  "tive^posi": [
-    "positive"
-  ],
-  "tive^predic": [
-    "predictive"
-  ],
-  "tle^ti": [
-    "title"
-  ],
-  "tly^correc": [
-    "correctly"
-  ],
-  "tly^recen": [
-    "recently"
-  ],
-  "to^": [
-    "to"
-  ],
-  "too^": [
-    "too"
-  ],
-  "topped^": [
-    "topped"
-  ],
-  "tor^fac": [
-    "factor"
-  ],
-  "tories^s": [
-    "stories"
-  ],
-  "tractive^at": [
-    "attractive"
-  ],
-  "treme^ex": [
-    "extreme"
-  ],
-  "truth^": [
-    "truth"
-  ],
-  "ts^aspec": [
-    "aspects"
-  ],
-  "ts^i": [
-    "its"
-  ],
-  "ts^scientis": [
-    "scientists"
-  ],
-  "ts^specialis": [
-    "specialists"
-  ],
-  "ttractive^a": [
-    "attractive"
-  ],
-  "tury^cen": [
-    "century"
-  ],
-  "typically^": [
-    "typically"
-  ],
-  "u^yo": [
-    "you"
-  ],
-  "ueen^q": [
-    "queen"
-  ],
-  "uestion^q": [
-    "question"
-  ],
-  "uilt^b": [
-    "built"
-  ],
-  "ulating^stim": [
-    "stimulating"
-  ],
-  "uld^sho": [
-    "should"
-  ],
-  "ums^s": [
-    "sums"
-  ],
-  "un^f": [
-    "fun"
-  ],
-  "undance^ab": [
-    "abundance"
-  ],
-  "undisputed^": [
-    "undisputed"
-  ],
-  "unky^f": [
-    "funky"
-  ],
-  "urage^disco": [
-    "discourage"
-  ],
-  "ure^ten": [
-    "tenure"
-  ],
-  "urs^ho": [
-    "hours"
-  ],
-  "urthermore^f": [
-    "furthermore"
-  ],
-  "urvey^s": [
-    "survey"
-  ],
-  "ury^cent": [
-    "century"
-  ],
-  "use^beca": [
-    "because"
-  ],
-  "usively^excl": [
-    "exclusively"
-  ],
-  "ut^abo": [
-    "about"
-  ],
-  "ut^b": [
-    "but"
-  ],
-  "ut^o": [
-    "out"
-  ],
-  "ute^absol": [
-    "absolute"
-  ],
-  "uted^undisp": [
-    "undisputed"
-  ],
-  "uth^tr": [
-    "truth"
-  ],
-  "ve^attracti": [
-    "attractive"
-  ],
-  "ve^ha": [
-    "have"
-  ],
-  "ve^li": [
-    "live"
-  ],
-  "ve^lo": [
-    "love"
-  ],
-  "ve^negati": [
-    "negative"
-  ],
-  "ve^positi": [
-    "positive"
-  ],
-  "ve^predicti": [
-    "predictive"
-  ],
-  "ve^sol": [
-    "solve"
-  ],
-  "velopers^de": [
-    "developers"
-  ],
-  "vely^exclusi": [
-    "exclusively"
-  ],
-  "ver^o": [
-    "over"
-  ],
-  "verflow^o": [
-    "overflow"
-  ],
-  "verything^e": [
-    "everything"
-  ],
-  "vey^sur": [
-    "survey"
-  ],
-  "vil^de": [
-    "devil"
-  ],
-  "vocate^ad": [
-    "advocate"
-  ],
-  "w^kne": [
-    "knew"
-  ],
-  "w^ne": [
-    "new"
-  ],
-  "w^overflo": [
-    "overflow"
-  ],
-  "want^": [
-    "want"
-  ],
-  "ward^for": [
-    "forward"
-  ],
-  "warding^re": [
-    "rewarding"
-  ],
-  "was^": [
-    "was"
-  ],
-  "wasn^": [
-    "wasn"
-  ],
-  "we^": [
-    "we"
-  ],
-  "week^": [
-    "week"
-  ],
-  "wer^ans": [
-    "answer"
-  ],
-  "were^": [
-    "were"
-  ],
-  "who^": [
-    "who"
-  ],
-  "whole^": [
-    "whole"
-  ],
-  "why^": [
-    "why"
-  ],
-  "witched^s": [
-    "switched"
-  ],
-  "with^": [
-    "with"
-  ],
-  "x^comple": [
-    "complex"
-  ],
-  "xclusively^e": [
-    "exclusively"
-  ],
-  "xgboost^": [
-    "xgboost"
-  ],
-  "xiest^se": [
-    "sexiest"
-  ],
-  "xpose^e": [
-    "expose"
-  ],
-  "xtreme^e": [
-    "extreme"
-  ],
-  "y^b": [
-    "by"
-  ],
-  "y^centur": [
-    "century"
-  ],
-  "y^clarif": [
-    "clarify"
-  ],
-  "y^correctl": [
-    "correctly"
-  ],
-  "y^exclusivel": [
-    "exclusively"
-  ],
-  "y^funk": [
-    "funky"
-  ],
-  "y^highl": [
-    "highly"
-  ],
-  "y^m": [
-    "my"
-  ],
-  "y^man": [
-    "many"
-  ],
-  "y^mone": [
-    "money"
-  ],
-  "y^pla": [
-    "play"
-  ],
-  "y^recentl": [
-    "recently"
-  ],
-  "y^sa": [
-    "say"
-  ],
-  "y^surve": [
-    "survey"
-  ],
-  "y^the": [
-    "they"
-  ],
-  "y^typicall": [
-    "typically"
-  ],
-  "y^wh": [
-    "why"
-  ],
-  "years^": [
-    "years"
-  ],
-  "yes^": [
-    "yes"
-  ],
-  "you^": [
-    "you"
-  ],
-  "ypically^t": [
-    "typically"
-  ],
-  "yself^m": [
-    "myself"
-  ],
-  "ything^ever": [
-    "everything"
-  ],
-  "ytics^anal": [
-    "analytics"
-  ]
+    "-based^regression": [
+        "regression-based"
+    ],
+    "^a": [
+        "a"
+    ],
+    "^about": [
+        "about"
+    ],
+    "^absolute": [
+        "absolute"
+    ],
+    "^abundance": [
+        "abundance"
+    ],
+    "^advocate": [
+        "advocate"
+    ],
+    "^aim": [
+        "aim"
+    ],
+    "^alone": [
+        "alone"
+    ],
+    "^also": [
+        "also"
+    ],
+    "^am": [
+        "am"
+    ],
+    "^an": [
+        "an"
+    ],
+    "^analytics": [
+        "analytics"
+    ],
+    "^and": [
+        "and"
+    ],
+    "^answer": [
+        "answer"
+    ],
+    "^are": [
+        "are"
+    ],
+    "^article": [
+        "article"
+    ],
+    "^as": [
+        "as"
+    ],
+    "^aspects": [
+        "aspects"
+    ],
+    "^aspiring": [
+        "aspiring"
+    ],
+    "^at": [
+        "at"
+    ],
+    "^attractive": [
+        "attractive"
+    ],
+    "^based": [
+        "based"
+    ],
+    "^be": [
+        "be"
+    ],
+    "^because": [
+        "because"
+    ],
+    "^been": [
+        "been"
+    ],
+    "^before": [
+        "before"
+    ],
+    "^being": [
+        "being"
+    ],
+    "^boosting": [
+        "boosting"
+    ],
+    "^boss": [
+        "boss"
+    ],
+    "^both": [
+        "both"
+    ],
+    "^built": [
+        "built"
+    ],
+    "^but": [
+        "but"
+    ],
+    "^by": [
+        "by"
+    ],
+    "^can": [
+        "can"
+    ],
+    "^cent": [
+        "cent"
+    ],
+    "^century": [
+        "century"
+    ],
+    "^clarify": [
+        "clarify"
+    ],
+    "^close": [
+        "close"
+    ],
+    "^collected": [
+        "collected"
+    ],
+    "^complex": [
+        "complex"
+    ],
+    "^contains": [
+        "contains"
+    ],
+    "^correctly": [
+        "correctly"
+    ],
+    "^data": [
+        "data"
+    ],
+    "^developers": [
+        "developers"
+    ],
+    "^devil": [
+        "devil"
+    ],
+    "^did": [
+        "did"
+    ],
+    "^discourage": [
+        "discourage"
+    ],
+    "^don": [
+        "don"
+    ],
+    "^dream": [
+        "dream"
+    ],
+    "^era": [
+        "era"
+    ],
+    "^everything": [
+        "everything"
+    ],
+    "^exclusively": [
+        "exclusively"
+    ],
+    "^expose": [
+        "expose"
+    ],
+    "^extreme": [
+        "extreme"
+    ],
+    "^fact": [
+        "fact"
+    ],
+    "^factor": [
+        "factor"
+    ],
+    "^fast": [
+        "fast"
+    ],
+    "^field": [
+        "field"
+    ],
+    "^fifteen": [
+        "fifteen"
+    ],
+    "^financial": [
+        "financial"
+    ],
+    "^for": [
+        "for"
+    ],
+    "^forward": [
+        "forward"
+    ],
+    "^from": [
+        "from"
+    ],
+    "^fun": [
+        "fun"
+    ],
+    "^funky": [
+        "funky"
+    ],
+    "^furthermore": [
+        "furthermore"
+    ],
+    "^geek": [
+        "geek"
+    ],
+    "^geeking": [
+        "geeking"
+    ],
+    "^got": [
+        "got"
+    ],
+    "^gradient": [
+        "gradient"
+    ],
+    "^had": [
+        "had"
+    ],
+    "^has": [
+        "has"
+    ],
+    "^have": [
+        "have"
+    ],
+    "^highly": [
+        "highly"
+    ],
+    "^hours": [
+        "hours"
+    ],
+    "^i": [
+        "i"
+    ],
+    "^in": [
+        "in"
+    ],
+    "^is": [
+        "is"
+    ],
+    "^it": [
+        "it"
+    ],
+    "^its": [
+        "its"
+    ],
+    "^job": [
+        "job"
+    ],
+    "^jobs": [
+        "jobs"
+    ],
+    "^knew": [
+        "knew"
+    ],
+    "^learning": [
+        "learning"
+    ],
+    "^like": [
+        "like"
+    ],
+    "^linear": [
+        "linear"
+    ],
+    "^list": [
+        "list"
+    ],
+    "^live": [
+        "live"
+    ],
+    "^logistic": [
+        "logistic"
+    ],
+    "^long": [
+        "long"
+    ],
+    "^looking": [
+        "looking"
+    ],
+    "^love": [
+        "love"
+    ],
+    "^machine": [
+        "machine"
+    ],
+    "^make": [
+        "make"
+    ],
+    "^many": [
+        "many"
+    ],
+    "^modeling": [
+        "modeling"
+    ],
+    "^models": [
+        "models"
+    ],
+    "^money": [
+        "money"
+    ],
+    "^my": [
+        "my"
+    ],
+    "^myself": [
+        "myself"
+    ],
+    "^name": [
+        "name"
+    ],
+    "^negative": [
+        "negative"
+    ],
+    "^new": [
+        "new"
+    ],
+    "^of": [
+        "of"
+    ],
+    "^old": [
+        "old"
+    ],
+    "^on": [
+        "on"
+    ],
+    "^or": [
+        "or"
+    ],
+    "^others": [
+        "others"
+    ],
+    "^out": [
+        "out"
+    ],
+    "^over": [
+        "over"
+    ],
+    "^overflow": [
+        "overflow"
+    ],
+    "^passed": [
+        "passed"
+    ],
+    "^people": [
+        "people"
+    ],
+    "^per": [
+        "per"
+    ],
+    "^play": [
+        "play"
+    ],
+    "^position": [
+        "position"
+    ],
+    "^positive": [
+        "positive"
+    ],
+    "^predictive": [
+        "predictive"
+    ],
+    "^problems": [
+        "problems"
+    ],
+    "^queen": [
+        "queen"
+    ],
+    "^question": [
+        "question"
+    ],
+    "^read": [
+        "read"
+    ],
+    "^recently": [
+        "recently"
+    ],
+    "^regression": [
+        "regression"
+    ],
+    "^regression-based": [
+        "regression-based"
+    ],
+    "^remember": [
+        "remember"
+    ],
+    "^rewarding": [
+        "rewarding"
+    ],
+    "^right": [
+        "right"
+    ],
+    "^said": [
+        "said"
+    ],
+    "^say": [
+        "say"
+    ],
+    "^science": [
+        "science"
+    ],
+    "^scientist": [
+        "scientist"
+    ],
+    "^scientists": [
+        "scientists"
+    ],
+    "^second": [
+        "second"
+    ],
+    "^seem": [
+        "seem"
+    ],
+    "^sexiest": [
+        "sexiest"
+    ],
+    "^should": [
+        "should"
+    ],
+    "^skilled": [
+        "skilled"
+    ],
+    "^so": [
+        "so"
+    ],
+    "^solve": [
+        "solve"
+    ],
+    "^some": [
+        "some"
+    ],
+    "^someone": [
+        "someone"
+    ],
+    "^specialists": [
+        "specialists"
+    ],
+    "^spend": [
+        "spend"
+    ],
+    "^stack": [
+        "stack"
+    ],
+    "^stated": [
+        "stated"
+    ],
+    "^states": [
+        "states"
+    ],
+    "^statistical": [
+        "statistical"
+    ],
+    "^still": [
+        "still"
+    ],
+    "^stimulating": [
+        "stimulating"
+    ],
+    "^stories": [
+        "stories"
+    ],
+    "^sums": [
+        "sums"
+    ],
+    "^survey": [
+        "survey"
+    ],
+    "^switched": [
+        "switched"
+    ],
+    "^tenure": [
+        "tenure"
+    ],
+    "^that": [
+        "that"
+    ],
+    "^the": [
+        "the"
+    ],
+    "^their": [
+        "their"
+    ],
+    "^there": [
+        "there"
+    ],
+    "^these": [
+        "these"
+    ],
+    "^they": [
+        "they"
+    ],
+    "^thing": [
+        "thing"
+    ],
+    "^thinking": [
+        "thinking"
+    ],
+    "^this": [
+        "this"
+    ],
+    "^time": [
+        "time"
+    ],
+    "^times": [
+        "times"
+    ],
+    "^title": [
+        "title"
+    ],
+    "^to": [
+        "to"
+    ],
+    "^too": [
+        "too"
+    ],
+    "^topped": [
+        "topped"
+    ],
+    "^truth": [
+        "truth"
+    ],
+    "^typically": [
+        "typically"
+    ],
+    "^undisputed": [
+        "undisputed"
+    ],
+    "^want": [
+        "want"
+    ],
+    "^was": [
+        "was"
+    ],
+    "^wasn": [
+        "wasn"
+    ],
+    "^we": [
+        "we"
+    ],
+    "^week": [
+        "week"
+    ],
+    "^were": [
+        "were"
+    ],
+    "^who": [
+        "who"
+    ],
+    "^whole": [
+        "whole"
+    ],
+    "^why": [
+        "why"
+    ],
+    "^with": [
+        "with"
+    ],
+    "^xgboost": [
+        "xgboost"
+    ],
+    "^years": [
+        "years"
+    ],
+    "^yes": [
+        "yes"
+    ],
+    "^you": [
+        "you"
+    ],
+    "a^": [
+        "a"
+    ],
+    "a^dat": [
+        "data"
+    ],
+    "a^er": [
+        "era"
+    ],
+    "about^": [
+        "about"
+    ],
+    "absolute^": [
+        "absolute"
+    ],
+    "abundance^": [
+        "abundance"
+    ],
+    "achine^m": [
+        "machine"
+    ],
+    "ack^st": [
+        "stack"
+    ],
+    "act^f": [
+        "fact"
+    ],
+    "active^attr": [
+        "attractive"
+    ],
+    "actor^f": [
+        "factor"
+    ],
+    "ad^h": [
+        "had"
+    ],
+    "ad^re": [
+        "read"
+    ],
+    "adient^gr": [
+        "gradient"
+    ],
+    "advocate^": [
+        "advocate"
+    ],
+    "age^discour": [
+        "discourage"
+    ],
+    "aid^s": [
+        "said"
+    ],
+    "aim^": [
+        "aim"
+    ],
+    "ains^cont": [
+        "contains"
+    ],
+    "ake^m": [
+        "make"
+    ],
+    "al^financi": [
+        "financial"
+    ],
+    "al^statistic": [
+        "statistical"
+    ],
+    "alists^speci": [
+        "specialists"
+    ],
+    "ally^typic": [
+        "typically"
+    ],
+    "alone^": [
+        "alone"
+    ],
+    "also^": [
+        "also"
+    ],
+    "alytics^an": [
+        "analytics"
+    ],
+    "am^": [
+        "am"
+    ],
+    "am^dre": [
+        "dream"
+    ],
+    "ame^n": [
+        "name"
+    ],
+    "an^": [
+        "an"
+    ],
+    "an^c": [
+        "can"
+    ],
+    "analytics^": [
+        "analytics"
+    ],
+    "ance^abund": [
+        "abundance"
+    ],
+    "ancial^fin": [
+        "financial"
+    ],
+    "and^": [
+        "and"
+    ],
+    "answer^": [
+        "answer"
+    ],
+    "ant^w": [
+        "want"
+    ],
+    "any^m": [
+        "many"
+    ],
+    "ar^line": [
+        "linear"
+    ],
+    "ard^forw": [
+        "forward"
+    ],
+    "arding^rew": [
+        "rewarding"
+    ],
+    "are^": [
+        "are"
+    ],
+    "arify^cl": [
+        "clarify"
+    ],
+    "arning^le": [
+        "learning"
+    ],
+    "ars^ye": [
+        "years"
+    ],
+    "article^": [
+        "article"
+    ],
+    "as^": [
+        "as"
+    ],
+    "as^h": [
+        "has"
+    ],
+    "as^w": [
+        "was"
+    ],
+    "ased^b": [
+        "based"
+    ],
+    "ased^regression-b": [
+        "regression-based"
+    ],
+    "asn^w": [
+        "wasn"
+    ],
+    "aspects^": [
+        "aspects"
+    ],
+    "aspiring^": [
+        "aspiring"
+    ],
+    "assed^p": [
+        "passed"
+    ],
+    "ast^f": [
+        "fast"
+    ],
+    "at^": [
+        "at"
+    ],
+    "at^th": [
+        "that"
+    ],
+    "ata^d": [
+        "data"
+    ],
+    "ate^advoc": [
+        "advocate"
+    ],
+    "ated^st": [
+        "stated"
+    ],
+    "ates^st": [
+        "states"
+    ],
+    "ating^stimul": [
+        "stimulating"
+    ],
+    "atistical^st": [
+        "statistical"
+    ],
+    "ative^neg": [
+        "negative"
+    ],
+    "attractive^": [
+        "attractive"
+    ],
+    "ause^bec": [
+        "because"
+    ],
+    "ave^h": [
+        "have"
+    ],
+    "ay^pl": [
+        "play"
+    ],
+    "ay^s": [
+        "say"
+    ],
+    "b^jo": [
+        "job"
+    ],
+    "based^": [
+        "based"
+    ],
+    "based^regression-": [
+        "regression-based"
+    ],
+    "be^": [
+        "be"
+    ],
+    "because^": [
+        "because"
+    ],
+    "been^": [
+        "been"
+    ],
+    "before^": [
+        "before"
+    ],
+    "being^": [
+        "being"
+    ],
+    "ber^remem": [
+        "remember"
+    ],
+    "blems^pro": [
+        "problems"
+    ],
+    "boost^xg": [
+        "xgboost"
+    ],
+    "boosting^": [
+        "boosting"
+    ],
+    "boss^": [
+        "boss"
+    ],
+    "both^": [
+        "both"
+    ],
+    "bout^a": [
+        "about"
+    ],
+    "bs^jo": [
+        "jobs"
+    ],
+    "bsolute^a": [
+        "absolute"
+    ],
+    "built^": [
+        "built"
+    ],
+    "bundance^a": [
+        "abundance"
+    ],
+    "but^": [
+        "but"
+    ],
+    "by^": [
+        "by"
+    ],
+    "c^logisti": [
+        "logistic"
+    ],
+    "cal^statisti": [
+        "statistical"
+    ],
+    "cally^typi": [
+        "typically"
+    ],
+    "can^": [
+        "can"
+    ],
+    "cate^advo": [
+        "advocate"
+    ],
+    "cause^be": [
+        "because"
+    ],
+    "ce^abundan": [
+        "abundance"
+    ],
+    "ce^scien": [
+        "science"
+    ],
+    "cent^": [
+        "cent"
+    ],
+    "cently^re": [
+        "recently"
+    ],
+    "century^": [
+        "century"
+    ],
+    "ched^swit": [
+        "switched"
+    ],
+    "chine^ma": [
+        "machine"
+    ],
+    "cial^finan": [
+        "financial"
+    ],
+    "cialists^spe": [
+        "specialists"
+    ],
+    "cience^s": [
+        "science"
+    ],
+    "cientist^s": [
+        "scientist"
+    ],
+    "cientists^s": [
+        "scientists"
+    ],
+    "ck^sta": [
+        "stack"
+    ],
+    "clarify^": [
+        "clarify"
+    ],
+    "cle^arti": [
+        "article"
+    ],
+    "close^": [
+        "close"
+    ],
+    "clusively^ex": [
+        "exclusively"
+    ],
+    "collected^": [
+        "collected"
+    ],
+    "complex^": [
+        "complex"
+    ],
+    "cond^se": [
+        "second"
+    ],
+    "contains^": [
+        "contains"
+    ],
+    "correctly^": [
+        "correctly"
+    ],
+    "courage^dis": [
+        "discourage"
+    ],
+    "cs^analyti": [
+        "analytics"
+    ],
+    "ct^fa": [
+        "fact"
+    ],
+    "cted^colle": [
+        "collected"
+    ],
+    "ctive^attra": [
+        "attractive"
+    ],
+    "ctive^predi": [
+        "predictive"
+    ],
+    "ctly^corre": [
+        "correctly"
+    ],
+    "ctor^fa": [
+        "factor"
+    ],
+    "cts^aspe": [
+        "aspects"
+    ],
+    "d^an": [
+        "and"
+    ],
+    "d^base": [
+        "based"
+    ],
+    "d^collecte": [
+        "collected"
+    ],
+    "d^di": [
+        "did"
+    ],
+    "d^fiel": [
+        "field"
+    ],
+    "d^forwar": [
+        "forward"
+    ],
+    "d^ha": [
+        "had"
+    ],
+    "d^ol": [
+        "old"
+    ],
+    "d^passe": [
+        "passed"
+    ],
+    "d^rea": [
+        "read"
+    ],
+    "d^regression-base": [
+        "regression-based"
+    ],
+    "d^sai": [
+        "said"
+    ],
+    "d^secon": [
+        "second"
+    ],
+    "d^shoul": [
+        "should"
+    ],
+    "d^skille": [
+        "skilled"
+    ],
+    "d^spen": [
+        "spend"
+    ],
+    "d^state": [
+        "stated"
+    ],
+    "d^switche": [
+        "switched"
+    ],
+    "d^toppe": [
+        "topped"
+    ],
+    "d^undispute": [
+        "undisputed"
+    ],
+    "dance^abun": [
+        "abundance"
+    ],
+    "data^": [
+        "data"
+    ],
+    "deling^mo": [
+        "modeling"
+    ],
+    "dels^mo": [
+        "models"
+    ],
+    "developers^": [
+        "developers"
+    ],
+    "devil^": [
+        "devil"
+    ],
+    "dictive^pre": [
+        "predictive"
+    ],
+    "did^": [
+        "did"
+    ],
+    "dient^gra": [
+        "gradient"
+    ],
+    "ding^rewar": [
+        "rewarding"
+    ],
+    "discourage^": [
+        "discourage"
+    ],
+    "disputed^un": [
+        "undisputed"
+    ],
+    "don^": [
+        "don"
+    ],
+    "dream^": [
+        "dream"
+    ],
+    "dvocate^a": [
+        "advocate"
+    ],
+    "e^absolut": [
+        "absolute"
+    ],
+    "e^abundanc": [
+        "abundance"
+    ],
+    "e^advocat": [
+        "advocate"
+    ],
+    "e^alon": [
+        "alone"
+    ],
+    "e^ar": [
+        "are"
+    ],
+    "e^articl": [
+        "article"
+    ],
+    "e^attractiv": [
+        "attractive"
+    ],
+    "e^b": [
+        "be"
+    ],
+    "e^becaus": [
+        "because"
+    ],
+    "e^befor": [
+        "before"
+    ],
+    "e^clos": [
+        "close"
+    ],
+    "e^discourag": [
+        "discourage"
+    ],
+    "e^expos": [
+        "expose"
+    ],
+    "e^extrem": [
+        "extreme"
+    ],
+    "e^furthermor": [
+        "furthermore"
+    ],
+    "e^hav": [
+        "have"
+    ],
+    "e^lik": [
+        "like"
+    ],
+    "e^liv": [
+        "live"
+    ],
+    "e^lov": [
+        "love"
+    ],
+    "e^machin": [
+        "machine"
+    ],
+    "e^mak": [
+        "make"
+    ],
+    "e^nam": [
+        "name"
+    ],
+    "e^negativ": [
+        "negative"
+    ],
+    "e^peopl": [
+        "people"
+    ],
+    "e^positiv": [
+        "positive"
+    ],
+    "e^predictiv": [
+        "predictive"
+    ],
+    "e^scienc": [
+        "science"
+    ],
+    "e^solv": [
+        "solve"
+    ],
+    "e^som": [
+        "some"
+    ],
+    "e^someon": [
+        "someone"
+    ],
+    "e^tenur": [
+        "tenure"
+    ],
+    "e^th": [
+        "the"
+    ],
+    "e^ther": [
+        "there"
+    ],
+    "e^thes": [
+        "these"
+    ],
+    "e^tim": [
+        "time"
+    ],
+    "e^titl": [
+        "title"
+    ],
+    "e^w": [
+        "we"
+    ],
+    "e^wer": [
+        "were"
+    ],
+    "e^whol": [
+        "whole"
+    ],
+    "ead^r": [
+        "read"
+    ],
+    "eam^dr": [
+        "dream"
+    ],
+    "ear^lin": [
+        "linear"
+    ],
+    "earning^l": [
+        "learning"
+    ],
+    "ears^y": [
+        "years"
+    ],
+    "ecause^b": [
+        "because"
+    ],
+    "ecently^r": [
+        "recently"
+    ],
+    "ecialists^sp": [
+        "specialists"
+    ],
+    "econd^s": [
+        "second"
+    ],
+    "ected^coll": [
+        "collected"
+    ],
+    "ectly^corr": [
+        "correctly"
+    ],
+    "ects^asp": [
+        "aspects"
+    ],
+    "ed^bas": [
+        "based"
+    ],
+    "ed^collect": [
+        "collected"
+    ],
+    "ed^pass": [
+        "passed"
+    ],
+    "ed^regression-bas": [
+        "regression-based"
+    ],
+    "ed^skill": [
+        "skilled"
+    ],
+    "ed^stat": [
+        "stated"
+    ],
+    "ed^switch": [
+        "switched"
+    ],
+    "ed^topp": [
+        "topped"
+    ],
+    "ed^undisput": [
+        "undisputed"
+    ],
+    "edictive^pr": [
+        "predictive"
+    ],
+    "eek^g": [
+        "geek"
+    ],
+    "eek^w": [
+        "week"
+    ],
+    "eeking^g": [
+        "geeking"
+    ],
+    "eem^s": [
+        "seem"
+    ],
+    "een^b": [
+        "been"
+    ],
+    "een^fift": [
+        "fifteen"
+    ],
+    "een^qu": [
+        "queen"
+    ],
+    "efore^b": [
+        "before"
+    ],
+    "egative^n": [
+        "negative"
+    ],
+    "egression-based^r": [
+        "regression-based"
+    ],
+    "egression^r": [
+        "regression"
+    ],
+    "eing^b": [
+        "being"
+    ],
+    "eir^th": [
+        "their"
+    ],
+    "ek^ge": [
+        "geek"
+    ],
+    "ek^we": [
+        "week"
+    ],
+    "eking^ge": [
+        "geeking"
+    ],
+    "eld^fi": [
+        "field"
+    ],
+    "elf^mys": [
+        "myself"
+    ],
+    "eling^mod": [
+        "modeling"
+    ],
+    "elopers^dev": [
+        "developers"
+    ],
+    "els^mod": [
+        "models"
+    ],
+    "ely^exclusiv": [
+        "exclusively"
+    ],
+    "em^se": [
+        "seem"
+    ],
+    "ember^rem": [
+        "remember"
+    ],
+    "eme^extr": [
+        "extreme"
+    ],
+    "emember^r": [
+        "remember"
+    ],
+    "ems^probl": [
+        "problems"
+    ],
+    "en^be": [
+        "been"
+    ],
+    "en^fifte": [
+        "fifteen"
+    ],
+    "en^que": [
+        "queen"
+    ],
+    "ence^sci": [
+        "science"
+    ],
+    "end^sp": [
+        "spend"
+    ],
+    "ent^c": [
+        "cent"
+    ],
+    "ent^gradi": [
+        "gradient"
+    ],
+    "entist^sci": [
+        "scientist"
+    ],
+    "entists^sci": [
+        "scientists"
+    ],
+    "ently^rec": [
+        "recently"
+    ],
+    "entury^c": [
+        "century"
+    ],
+    "enure^t": [
+        "tenure"
+    ],
+    "eone^som": [
+        "someone"
+    ],
+    "eople^p": [
+        "people"
+    ],
+    "er^answ": [
+        "answer"
+    ],
+    "er^ov": [
+        "over"
+    ],
+    "er^p": [
+        "per"
+    ],
+    "er^rememb": [
+        "remember"
+    ],
+    "era^": [
+        "era"
+    ],
+    "ere^th": [
+        "there"
+    ],
+    "ere^w": [
+        "were"
+    ],
+    "erflow^ov": [
+        "overflow"
+    ],
+    "ermore^furth": [
+        "furthermore"
+    ],
+    "ers^develop": [
+        "developers"
+    ],
+    "ers^oth": [
+        "others"
+    ],
+    "erything^ev": [
+        "everything"
+    ],
+    "es^stat": [
+        "states"
+    ],
+    "es^stori": [
+        "stories"
+    ],
+    "es^tim": [
+        "times"
+    ],
+    "es^y": [
+        "yes"
+    ],
+    "ese^th": [
+        "these"
+    ],
+    "ession-based^regr": [
+        "regression-based"
+    ],
+    "ession^regr": [
+        "regression"
+    ],
+    "est^sexi": [
+        "sexiest"
+    ],
+    "estion^qu": [
+        "question"
+    ],
+    "evelopers^d": [
+        "developers"
+    ],
+    "everything^": [
+        "everything"
+    ],
+    "evil^d": [
+        "devil"
+    ],
+    "ew^kn": [
+        "knew"
+    ],
+    "ew^n": [
+        "new"
+    ],
+    "ewarding^r": [
+        "rewarding"
+    ],
+    "ex^compl": [
+        "complex"
+    ],
+    "exclusively^": [
+        "exclusively"
+    ],
+    "exiest^s": [
+        "sexiest"
+    ],
+    "expose^": [
+        "expose"
+    ],
+    "extreme^": [
+        "extreme"
+    ],
+    "ey^mon": [
+        "money"
+    ],
+    "ey^surv": [
+        "survey"
+    ],
+    "ey^th": [
+        "they"
+    ],
+    "f^mysel": [
+        "myself"
+    ],
+    "f^o": [
+        "of"
+    ],
+    "fact^": [
+        "fact"
+    ],
+    "factor^": [
+        "factor"
+    ],
+    "fast^": [
+        "fast"
+    ],
+    "field^": [
+        "field"
+    ],
+    "fifteen^": [
+        "fifteen"
+    ],
+    "financial^": [
+        "financial"
+    ],
+    "flow^over": [
+        "overflow"
+    ],
+    "for^": [
+        "for"
+    ],
+    "fore^be": [
+        "before"
+    ],
+    "forward^": [
+        "forward"
+    ],
+    "from^": [
+        "from"
+    ],
+    "fteen^fi": [
+        "fifteen"
+    ],
+    "fun^": [
+        "fun"
+    ],
+    "funky^": [
+        "funky"
+    ],
+    "furthermore^": [
+        "furthermore"
+    ],
+    "fy^clari": [
+        "clarify"
+    ],
+    "g^aspirin": [
+        "aspiring"
+    ],
+    "g^bein": [
+        "being"
+    ],
+    "g^boostin": [
+        "boosting"
+    ],
+    "g^everythin": [
+        "everything"
+    ],
+    "g^geekin": [
+        "geeking"
+    ],
+    "g^learnin": [
+        "learning"
+    ],
+    "g^lon": [
+        "long"
+    ],
+    "g^lookin": [
+        "looking"
+    ],
+    "g^modelin": [
+        "modeling"
+    ],
+    "g^rewardin": [
+        "rewarding"
+    ],
+    "g^stimulatin": [
+        "stimulating"
+    ],
+    "g^thin": [
+        "thing"
+    ],
+    "g^thinkin": [
+        "thinking"
+    ],
+    "gative^ne": [
+        "negative"
+    ],
+    "gboost^x": [
+        "xgboost"
+    ],
+    "ge^discoura": [
+        "discourage"
+    ],
+    "geek^": [
+        "geek"
+    ],
+    "geeking^": [
+        "geeking"
+    ],
+    "ghly^hi": [
+        "highly"
+    ],
+    "ght^ri": [
+        "right"
+    ],
+    "gistic^lo": [
+        "logistic"
+    ],
+    "got^": [
+        "got"
+    ],
+    "gradient^": [
+        "gradient"
+    ],
+    "gression-based^re": [
+        "regression-based"
+    ],
+    "gression^re": [
+        "regression"
+    ],
+    "h^bot": [
+        "both"
+    ],
+    "h^trut": [
+        "truth"
+    ],
+    "h^wit": [
+        "with"
+    ],
+    "had^": [
+        "had"
+    ],
+    "has^": [
+        "has"
+    ],
+    "hat^t": [
+        "that"
+    ],
+    "have^": [
+        "have"
+    ],
+    "he^t": [
+        "the"
+    ],
+    "hed^switc": [
+        "switched"
+    ],
+    "heir^t": [
+        "their"
+    ],
+    "here^t": [
+        "there"
+    ],
+    "hermore^furt": [
+        "furthermore"
+    ],
+    "hers^ot": [
+        "others"
+    ],
+    "hese^t": [
+        "these"
+    ],
+    "hey^t": [
+        "they"
+    ],
+    "highly^": [
+        "highly"
+    ],
+    "hine^mac": [
+        "machine"
+    ],
+    "hing^everyt": [
+        "everything"
+    ],
+    "hing^t": [
+        "thing"
+    ],
+    "hinking^t": [
+        "thinking"
+    ],
+    "his^t": [
+        "this"
+    ],
+    "hly^hig": [
+        "highly"
+    ],
+    "ho^w": [
+        "who"
+    ],
+    "hole^w": [
+        "whole"
+    ],
+    "hould^s": [
+        "should"
+    ],
+    "hours^": [
+        "hours"
+    ],
+    "ht^rig": [
+        "right"
+    ],
+    "hy^w": [
+        "why"
+    ],
+    "i^": [
+        "i"
+    ],
+    "ial^financ": [
+        "financial"
+    ],
+    "ialists^spec": [
+        "specialists"
+    ],
+    "ic^logist": [
+        "logistic"
+    ],
+    "ical^statist": [
+        "statistical"
+    ],
+    "ically^typ": [
+        "typically"
+    ],
+    "icle^art": [
+        "article"
+    ],
+    "ics^analyt": [
+        "analytics"
+    ],
+    "ictive^pred": [
+        "predictive"
+    ],
+    "id^d": [
+        "did"
+    ],
+    "id^sa": [
+        "said"
+    ],
+    "ield^f": [
+        "field"
+    ],
+    "ience^sc": [
+        "science"
+    ],
+    "ient^grad": [
+        "gradient"
+    ],
+    "ientist^sc": [
+        "scientist"
+    ],
+    "ientists^sc": [
+        "scientists"
+    ],
+    "ies^stor": [
+        "stories"
+    ],
+    "iest^sex": [
+        "sexiest"
+    ],
+    "ifteen^f": [
+        "fifteen"
+    ],
+    "ify^clar": [
+        "clarify"
+    ],
+    "ighly^h": [
+        "highly"
+    ],
+    "ight^r": [
+        "right"
+    ],
+    "ike^l": [
+        "like"
+    ],
+    "il^dev": [
+        "devil"
+    ],
+    "ill^st": [
+        "still"
+    ],
+    "illed^sk": [
+        "skilled"
+    ],
+    "ilt^bu": [
+        "built"
+    ],
+    "im^a": [
+        "aim"
+    ],
+    "ime^t": [
+        "time"
+    ],
+    "imes^t": [
+        "times"
+    ],
+    "imulating^st": [
+        "stimulating"
+    ],
+    "in^": [
+        "in"
+    ],
+    "inancial^f": [
+        "financial"
+    ],
+    "ine^mach": [
+        "machine"
+    ],
+    "inear^l": [
+        "linear"
+    ],
+    "ing^aspir": [
+        "aspiring"
+    ],
+    "ing^be": [
+        "being"
+    ],
+    "ing^boost": [
+        "boosting"
+    ],
+    "ing^everyth": [
+        "everything"
+    ],
+    "ing^geek": [
+        "geeking"
+    ],
+    "ing^learn": [
+        "learning"
+    ],
+    "ing^look": [
+        "looking"
+    ],
+    "ing^model": [
+        "modeling"
+    ],
+    "ing^reward": [
+        "rewarding"
+    ],
+    "ing^stimulat": [
+        "stimulating"
+    ],
+    "ing^th": [
+        "thing"
+    ],
+    "ing^think": [
+        "thinking"
+    ],
+    "inking^th": [
+        "thinking"
+    ],
+    "ins^conta": [
+        "contains"
+    ],
+    "ion-based^regress": [
+        "regression-based"
+    ],
+    "ion^posit": [
+        "position"
+    ],
+    "ion^quest": [
+        "question"
+    ],
+    "ion^regress": [
+        "regression"
+    ],
+    "ir^the": [
+        "their"
+    ],
+    "iring^asp": [
+        "aspiring"
+    ],
+    "is^": [
+        "is"
+    ],
+    "is^th": [
+        "this"
+    ],
+    "iscourage^d": [
+        "discourage"
+    ],
+    "isputed^und": [
+        "undisputed"
+    ],
+    "ist^l": [
+        "list"
+    ],
+    "ist^scient": [
+        "scientist"
+    ],
+    "istic^log": [
+        "logistic"
+    ],
+    "istical^stat": [
+        "statistical"
+    ],
+    "ists^scient": [
+        "scientists"
+    ],
+    "ists^special": [
+        "specialists"
+    ],
+    "it^": [
+        "it"
+    ],
+    "itched^sw": [
+        "switched"
+    ],
+    "ith^w": [
+        "with"
+    ],
+    "ition^pos": [
+        "position"
+    ],
+    "itive^pos": [
+        "positive"
+    ],
+    "itle^t": [
+        "title"
+    ],
+    "its^": [
+        "its"
+    ],
+    "ive^attract": [
+        "attractive"
+    ],
+    "ive^l": [
+        "live"
+    ],
+    "ive^negat": [
+        "negative"
+    ],
+    "ive^posit": [
+        "positive"
+    ],
+    "ive^predict": [
+        "predictive"
+    ],
+    "ively^exclus": [
+        "exclusively"
+    ],
+    "job^": [
+        "job"
+    ],
+    "jobs^": [
+        "jobs"
+    ],
+    "k^gee": [
+        "geek"
+    ],
+    "k^stac": [
+        "stack"
+    ],
+    "k^wee": [
+        "week"
+    ],
+    "ke^li": [
+        "like"
+    ],
+    "ke^ma": [
+        "make"
+    ],
+    "killed^s": [
+        "skilled"
+    ],
+    "king^gee": [
+        "geeking"
+    ],
+    "king^loo": [
+        "looking"
+    ],
+    "king^thin": [
+        "thinking"
+    ],
+    "knew^": [
+        "knew"
+    ],
+    "ky^fun": [
+        "funky"
+    ],
+    "l^devi": [
+        "devil"
+    ],
+    "l^financia": [
+        "financial"
+    ],
+    "l^statistica": [
+        "statistical"
+    ],
+    "l^stil": [
+        "still"
+    ],
+    "larify^c": [
+        "clarify"
+    ],
+    "lating^stimu": [
+        "stimulating"
+    ],
+    "lay^p": [
+        "play"
+    ],
+    "ld^fie": [
+        "field"
+    ],
+    "ld^o": [
+        "old"
+    ],
+    "ld^shou": [
+        "should"
+    ],
+    "le^artic": [
+        "article"
+    ],
+    "le^peop": [
+        "people"
+    ],
+    "le^tit": [
+        "title"
+    ],
+    "le^who": [
+        "whole"
+    ],
+    "learning^": [
+        "learning"
+    ],
+    "lected^col": [
+        "collected"
+    ],
+    "led^skil": [
+        "skilled"
+    ],
+    "lems^prob": [
+        "problems"
+    ],
+    "lex^comp": [
+        "complex"
+    ],
+    "lf^myse": [
+        "myself"
+    ],
+    "like^": [
+        "like"
+    ],
+    "linear^": [
+        "linear"
+    ],
+    "ling^mode": [
+        "modeling"
+    ],
+    "list^": [
+        "list"
+    ],
+    "lists^specia": [
+        "specialists"
+    ],
+    "live^": [
+        "live"
+    ],
+    "ll^sti": [
+        "still"
+    ],
+    "llected^co": [
+        "collected"
+    ],
+    "lled^ski": [
+        "skilled"
+    ],
+    "lly^typica": [
+        "typically"
+    ],
+    "logistic^": [
+        "logistic"
+    ],
+    "lone^a": [
+        "alone"
+    ],
+    "long^": [
+        "long"
+    ],
+    "looking^": [
+        "looking"
+    ],
+    "lopers^deve": [
+        "developers"
+    ],
+    "lose^c": [
+        "close"
+    ],
+    "love^": [
+        "love"
+    ],
+    "low^overf": [
+        "overflow"
+    ],
+    "ls^mode": [
+        "models"
+    ],
+    "lso^a": [
+        "also"
+    ],
+    "lt^bui": [
+        "built"
+    ],
+    "lusively^exc": [
+        "exclusively"
+    ],
+    "lute^abso": [
+        "absolute"
+    ],
+    "lve^so": [
+        "solve"
+    ],
+    "ly^correct": [
+        "correctly"
+    ],
+    "ly^exclusive": [
+        "exclusively"
+    ],
+    "ly^high": [
+        "highly"
+    ],
+    "ly^recent": [
+        "recently"
+    ],
+    "ly^typical": [
+        "typically"
+    ],
+    "lytics^ana": [
+        "analytics"
+    ],
+    "m^a": [
+        "am"
+    ],
+    "m^ai": [
+        "aim"
+    ],
+    "m^drea": [
+        "dream"
+    ],
+    "m^fro": [
+        "from"
+    ],
+    "m^see": [
+        "seem"
+    ],
+    "machine^": [
+        "machine"
+    ],
+    "make^": [
+        "make"
+    ],
+    "many^": [
+        "many"
+    ],
+    "mber^reme": [
+        "remember"
+    ],
+    "me^extre": [
+        "extreme"
+    ],
+    "me^na": [
+        "name"
+    ],
+    "me^so": [
+        "some"
+    ],
+    "me^ti": [
+        "time"
+    ],
+    "member^re": [
+        "remember"
+    ],
+    "meone^so": [
+        "someone"
+    ],
+    "mes^ti": [
+        "times"
+    ],
+    "modeling^": [
+        "modeling"
+    ],
+    "models^": [
+        "models"
+    ],
+    "money^": [
+        "money"
+    ],
+    "more^further": [
+        "furthermore"
+    ],
+    "mplex^co": [
+        "complex"
+    ],
+    "ms^proble": [
+        "problems"
+    ],
+    "ms^su": [
+        "sums"
+    ],
+    "mulating^sti": [
+        "stimulating"
+    ],
+    "my^": [
+        "my"
+    ],
+    "myself^": [
+        "myself"
+    ],
+    "n-based^regressio": [
+        "regression-based"
+    ],
+    "n^a": [
+        "an"
+    ],
+    "n^bee": [
+        "been"
+    ],
+    "n^ca": [
+        "can"
+    ],
+    "n^do": [
+        "don"
+    ],
+    "n^fiftee": [
+        "fifteen"
+    ],
+    "n^fu": [
+        "fun"
+    ],
+    "n^i": [
+        "in"
+    ],
+    "n^o": [
+        "on"
+    ],
+    "n^positio": [
+        "position"
+    ],
+    "n^quee": [
+        "queen"
+    ],
+    "n^questio": [
+        "question"
+    ],
+    "n^regressio": [
+        "regression"
+    ],
+    "n^was": [
+        "wasn"
+    ],
+    "nalytics^a": [
+        "analytics"
+    ],
+    "name^": [
+        "name"
+    ],
+    "nancial^fi": [
+        "financial"
+    ],
+    "nce^abunda": [
+        "abundance"
+    ],
+    "nce^scie": [
+        "science"
+    ],
+    "ncial^fina": [
+        "financial"
+    ],
+    "nd^a": [
+        "and"
+    ],
+    "nd^seco": [
+        "second"
+    ],
+    "nd^spe": [
+        "spend"
+    ],
+    "ndance^abu": [
+        "abundance"
+    ],
+    "ndisputed^u": [
+        "undisputed"
+    ],
+    "ne^alo": [
+        "alone"
+    ],
+    "ne^machi": [
+        "machine"
+    ],
+    "ne^someo": [
+        "someone"
+    ],
+    "near^li": [
+        "linear"
+    ],
+    "negative^": [
+        "negative"
+    ],
+    "new^": [
+        "new"
+    ],
+    "new^k": [
+        "knew"
+    ],
+    "ney^mo": [
+        "money"
+    ],
+    "ng^aspiri": [
+        "aspiring"
+    ],
+    "ng^bei": [
+        "being"
+    ],
+    "ng^boosti": [
+        "boosting"
+    ],
+    "ng^everythi": [
+        "everything"
+    ],
+    "ng^geeki": [
+        "geeking"
+    ],
+    "ng^learni": [
+        "learning"
+    ],
+    "ng^lo": [
+        "long"
+    ],
+    "ng^looki": [
+        "looking"
+    ],
+    "ng^modeli": [
+        "modeling"
+    ],
+    "ng^rewardi": [
+        "rewarding"
+    ],
+    "ng^stimulati": [
+        "stimulating"
+    ],
+    "ng^thi": [
+        "thing"
+    ],
+    "ng^thinki": [
+        "thinking"
+    ],
+    "ning^lear": [
+        "learning"
+    ],
+    "nking^thi": [
+        "thinking"
+    ],
+    "nky^fu": [
+        "funky"
+    ],
+    "ns^contai": [
+        "contains"
+    ],
+    "nswer^a": [
+        "answer"
+    ],
+    "nt^ce": [
+        "cent"
+    ],
+    "nt^gradie": [
+        "gradient"
+    ],
+    "nt^wa": [
+        "want"
+    ],
+    "ntains^co": [
+        "contains"
+    ],
+    "ntist^scie": [
+        "scientist"
+    ],
+    "ntists^scie": [
+        "scientists"
+    ],
+    "ntly^rece": [
+        "recently"
+    ],
+    "ntury^ce": [
+        "century"
+    ],
+    "nure^te": [
+        "tenure"
+    ],
+    "ny^ma": [
+        "many"
+    ],
+    "o^als": [
+        "also"
+    ],
+    "o^s": [
+        "so"
+    ],
+    "o^t": [
+        "to"
+    ],
+    "o^to": [
+        "too"
+    ],
+    "o^wh": [
+        "who"
+    ],
+    "ob^j": [
+        "job"
+    ],
+    "oblems^pr": [
+        "problems"
+    ],
+    "obs^j": [
+        "jobs"
+    ],
+    "ocate^adv": [
+        "advocate"
+    ],
+    "odeling^m": [
+        "modeling"
+    ],
+    "odels^m": [
+        "models"
+    ],
+    "of^": [
+        "of"
+    ],
+    "ogistic^l": [
+        "logistic"
+    ],
+    "oking^lo": [
+        "looking"
+    ],
+    "old^": [
+        "old"
+    ],
+    "ole^wh": [
+        "whole"
+    ],
+    "ollected^c": [
+        "collected"
+    ],
+    "olute^abs": [
+        "absolute"
+    ],
+    "olve^s": [
+        "solve"
+    ],
+    "om^fr": [
+        "from"
+    ],
+    "ome^s": [
+        "some"
+    ],
+    "omeone^s": [
+        "someone"
+    ],
+    "omplex^c": [
+        "complex"
+    ],
+    "on-based^regressi": [
+        "regression-based"
+    ],
+    "on^": [
+        "on"
+    ],
+    "on^d": [
+        "don"
+    ],
+    "on^positi": [
+        "position"
+    ],
+    "on^questi": [
+        "question"
+    ],
+    "on^regressi": [
+        "regression"
+    ],
+    "ond^sec": [
+        "second"
+    ],
+    "one^al": [
+        "alone"
+    ],
+    "one^some": [
+        "someone"
+    ],
+    "oney^m": [
+        "money"
+    ],
+    "ong^l": [
+        "long"
+    ],
+    "ontains^c": [
+        "contains"
+    ],
+    "oo^t": [
+        "too"
+    ],
+    "ooking^l": [
+        "looking"
+    ],
+    "oost^xgb": [
+        "xgboost"
+    ],
+    "oosting^b": [
+        "boosting"
+    ],
+    "opers^devel": [
+        "developers"
+    ],
+    "ople^pe": [
+        "people"
+    ],
+    "opped^t": [
+        "topped"
+    ],
+    "or^": [
+        "or"
+    ],
+    "or^f": [
+        "for"
+    ],
+    "or^fact": [
+        "factor"
+    ],
+    "ore^bef": [
+        "before"
+    ],
+    "ore^furtherm": [
+        "furthermore"
+    ],
+    "ories^st": [
+        "stories"
+    ],
+    "orrectly^c": [
+        "correctly"
+    ],
+    "orward^f": [
+        "forward"
+    ],
+    "ose^cl": [
+        "close"
+    ],
+    "ose^exp": [
+        "expose"
+    ],
+    "osition^p": [
+        "position"
+    ],
+    "ositive^p": [
+        "positive"
+    ],
+    "oss^b": [
+        "boss"
+    ],
+    "ost^xgbo": [
+        "xgboost"
+    ],
+    "osting^bo": [
+        "boosting"
+    ],
+    "ot^g": [
+        "got"
+    ],
+    "oth^b": [
+        "both"
+    ],
+    "others^": [
+        "others"
+    ],
+    "ou^y": [
+        "you"
+    ],
+    "ould^sh": [
+        "should"
+    ],
+    "ourage^disc": [
+        "discourage"
+    ],
+    "ours^h": [
+        "hours"
+    ],
+    "out^": [
+        "out"
+    ],
+    "out^ab": [
+        "about"
+    ],
+    "ove^l": [
+        "love"
+    ],
+    "over^": [
+        "over"
+    ],
+    "overflow^": [
+        "overflow"
+    ],
+    "ow^overfl": [
+        "overflow"
+    ],
+    "passed^": [
+        "passed"
+    ],
+    "pecialists^s": [
+        "specialists"
+    ],
+    "pects^as": [
+        "aspects"
+    ],
+    "ped^top": [
+        "topped"
+    ],
+    "pend^s": [
+        "spend"
+    ],
+    "people^": [
+        "people"
+    ],
+    "per^": [
+        "per"
+    ],
+    "pers^develo": [
+        "developers"
+    ],
+    "pically^ty": [
+        "typically"
+    ],
+    "piring^as": [
+        "aspiring"
+    ],
+    "play^": [
+        "play"
+    ],
+    "ple^peo": [
+        "people"
+    ],
+    "plex^com": [
+        "complex"
+    ],
+    "pose^ex": [
+        "expose"
+    ],
+    "position^": [
+        "position"
+    ],
+    "positive^": [
+        "positive"
+    ],
+    "pped^to": [
+        "topped"
+    ],
+    "predictive^": [
+        "predictive"
+    ],
+    "problems^": [
+        "problems"
+    ],
+    "puted^undis": [
+        "undisputed"
+    ],
+    "queen^": [
+        "queen"
+    ],
+    "question^": [
+        "question"
+    ],
+    "r^answe": [
+        "answer"
+    ],
+    "r^facto": [
+        "factor"
+    ],
+    "r^fo": [
+        "for"
+    ],
+    "r^linea": [
+        "linear"
+    ],
+    "r^o": [
+        "or"
+    ],
+    "r^ove": [
+        "over"
+    ],
+    "r^pe": [
+        "per"
+    ],
+    "r^remembe": [
+        "remember"
+    ],
+    "r^thei": [
+        "their"
+    ],
+    "ra^e": [
+        "era"
+    ],
+    "ractive^att": [
+        "attractive"
+    ],
+    "radient^g": [
+        "gradient"
+    ],
+    "rage^discou": [
+        "discourage"
+    ],
+    "rd^forwa": [
+        "forward"
+    ],
+    "rding^rewa": [
+        "rewarding"
+    ],
+    "re^a": [
+        "are"
+    ],
+    "re^befo": [
+        "before"
+    ],
+    "re^furthermo": [
+        "furthermore"
+    ],
+    "re^tenu": [
+        "tenure"
+    ],
+    "re^the": [
+        "there"
+    ],
+    "re^we": [
+        "were"
+    ],
+    "read^": [
+        "read"
+    ],
+    "ream^d": [
+        "dream"
+    ],
+    "recently^": [
+        "recently"
+    ],
+    "rectly^cor": [
+        "correctly"
+    ],
+    "redictive^p": [
+        "predictive"
+    ],
+    "regression-based^": [
+        "regression-based"
+    ],
+    "regression^": [
+        "regression"
+    ],
+    "reme^ext": [
+        "extreme"
+    ],
+    "remember^": [
+        "remember"
+    ],
+    "ression-based^reg": [
+        "regression-based"
+    ],
+    "ression^reg": [
+        "regression"
+    ],
+    "rewarding^": [
+        "rewarding"
+    ],
+    "rflow^ove": [
+        "overflow"
+    ],
+    "ries^sto": [
+        "stories"
+    ],
+    "rify^cla": [
+        "clarify"
+    ],
+    "right^": [
+        "right"
+    ],
+    "ring^aspi": [
+        "aspiring"
+    ],
+    "rmore^furthe": [
+        "furthermore"
+    ],
+    "rning^lea": [
+        "learning"
+    ],
+    "roblems^p": [
+        "problems"
+    ],
+    "rom^f": [
+        "from"
+    ],
+    "rrectly^co": [
+        "correctly"
+    ],
+    "rs^develope": [
+        "developers"
+    ],
+    "rs^hou": [
+        "hours"
+    ],
+    "rs^othe": [
+        "others"
+    ],
+    "rs^yea": [
+        "years"
+    ],
+    "rthermore^fu": [
+        "furthermore"
+    ],
+    "rticle^a": [
+        "article"
+    ],
+    "ruth^t": [
+        "truth"
+    ],
+    "rvey^su": [
+        "survey"
+    ],
+    "rward^fo": [
+        "forward"
+    ],
+    "ry^centu": [
+        "century"
+    ],
+    "rything^eve": [
+        "everything"
+    ],
+    "s^a": [
+        "as"
+    ],
+    "s^analytic": [
+        "analytics"
+    ],
+    "s^aspect": [
+        "aspects"
+    ],
+    "s^bos": [
+        "boss"
+    ],
+    "s^contain": [
+        "contains"
+    ],
+    "s^developer": [
+        "developers"
+    ],
+    "s^ha": [
+        "has"
+    ],
+    "s^hour": [
+        "hours"
+    ],
+    "s^i": [
+        "is"
+    ],
+    "s^it": [
+        "its"
+    ],
+    "s^job": [
+        "jobs"
+    ],
+    "s^model": [
+        "models"
+    ],
+    "s^other": [
+        "others"
+    ],
+    "s^problem": [
+        "problems"
+    ],
+    "s^scientist": [
+        "scientists"
+    ],
+    "s^specialist": [
+        "specialists"
+    ],
+    "s^state": [
+        "states"
+    ],
+    "s^storie": [
+        "stories"
+    ],
+    "s^sum": [
+        "sums"
+    ],
+    "s^thi": [
+        "this"
+    ],
+    "s^time": [
+        "times"
+    ],
+    "s^wa": [
+        "was"
+    ],
+    "s^ye": [
+        "yes"
+    ],
+    "s^year": [
+        "years"
+    ],
+    "said^": [
+        "said"
+    ],
+    "say^": [
+        "say"
+    ],
+    "science^": [
+        "science"
+    ],
+    "scientist^": [
+        "scientist"
+    ],
+    "scientists^": [
+        "scientists"
+    ],
+    "scourage^di": [
+        "discourage"
+    ],
+    "se^becau": [
+        "because"
+    ],
+    "se^clo": [
+        "close"
+    ],
+    "se^expo": [
+        "expose"
+    ],
+    "se^the": [
+        "these"
+    ],
+    "second^": [
+        "second"
+    ],
+    "sed^ba": [
+        "based"
+    ],
+    "sed^pas": [
+        "passed"
+    ],
+    "sed^regression-ba": [
+        "regression-based"
+    ],
+    "seem^": [
+        "seem"
+    ],
+    "self^my": [
+        "myself"
+    ],
+    "sexiest^": [
+        "sexiest"
+    ],
+    "should^": [
+        "should"
+    ],
+    "sion-based^regres": [
+        "regression-based"
+    ],
+    "sion^regres": [
+        "regression"
+    ],
+    "sition^po": [
+        "position"
+    ],
+    "sitive^po": [
+        "positive"
+    ],
+    "sively^exclu": [
+        "exclusively"
+    ],
+    "skilled^": [
+        "skilled"
+    ],
+    "sn^wa": [
+        "wasn"
+    ],
+    "so^": [
+        "so"
+    ],
+    "so^al": [
+        "also"
+    ],
+    "solute^ab": [
+        "absolute"
+    ],
+    "solve^": [
+        "solve"
+    ],
+    "some^": [
+        "some"
+    ],
+    "someone^": [
+        "someone"
+    ],
+    "specialists^": [
+        "specialists"
+    ],
+    "spects^a": [
+        "aspects"
+    ],
+    "spend^": [
+        "spend"
+    ],
+    "spiring^a": [
+        "aspiring"
+    ],
+    "sputed^undi": [
+        "undisputed"
+    ],
+    "ss^bo": [
+        "boss"
+    ],
+    "ssed^pa": [
+        "passed"
+    ],
+    "ssion-based^regre": [
+        "regression-based"
+    ],
+    "ssion^regre": [
+        "regression"
+    ],
+    "st^fa": [
+        "fast"
+    ],
+    "st^li": [
+        "list"
+    ],
+    "st^scienti": [
+        "scientist"
+    ],
+    "st^sexie": [
+        "sexiest"
+    ],
+    "st^xgboo": [
+        "xgboost"
+    ],
+    "stack^": [
+        "stack"
+    ],
+    "stated^": [
+        "stated"
+    ],
+    "states^": [
+        "states"
+    ],
+    "statistical^": [
+        "statistical"
+    ],
+    "stic^logi": [
+        "logistic"
+    ],
+    "stical^stati": [
+        "statistical"
+    ],
+    "still^": [
+        "still"
+    ],
+    "stimulating^": [
+        "stimulating"
+    ],
+    "sting^boo": [
+        "boosting"
+    ],
+    "stion^que": [
+        "question"
+    ],
+    "stories^": [
+        "stories"
+    ],
+    "sts^scienti": [
+        "scientists"
+    ],
+    "sts^speciali": [
+        "specialists"
+    ],
+    "sums^": [
+        "sums"
+    ],
+    "survey^": [
+        "survey"
+    ],
+    "swer^an": [
+        "answer"
+    ],
+    "switched^": [
+        "switched"
+    ],
+    "t^a": [
+        "at"
+    ],
+    "t^abou": [
+        "about"
+    ],
+    "t^bu": [
+        "but"
+    ],
+    "t^buil": [
+        "built"
+    ],
+    "t^cen": [
+        "cent"
+    ],
+    "t^fac": [
+        "fact"
+    ],
+    "t^fas": [
+        "fast"
+    ],
+    "t^go": [
+        "got"
+    ],
+    "t^gradien": [
+        "gradient"
+    ],
+    "t^i": [
+        "it"
+    ],
+    "t^lis": [
+        "list"
+    ],
+    "t^ou": [
+        "out"
+    ],
+    "t^righ": [
+        "right"
+    ],
+    "t^scientis": [
+        "scientist"
+    ],
+    "t^sexies": [
+        "sexiest"
+    ],
+    "t^tha": [
+        "that"
+    ],
+    "t^wan": [
+        "want"
+    ],
+    "t^xgboos": [
+        "xgboost"
+    ],
+    "ta^da": [
+        "data"
+    ],
+    "tack^s": [
+        "stack"
+    ],
+    "tains^con": [
+        "contains"
+    ],
+    "tated^s": [
+        "stated"
+    ],
+    "tates^s": [
+        "states"
+    ],
+    "tatistical^s": [
+        "statistical"
+    ],
+    "tched^swi": [
+        "switched"
+    ],
+    "te^absolu": [
+        "absolute"
+    ],
+    "te^advoca": [
+        "advocate"
+    ],
+    "ted^collec": [
+        "collected"
+    ],
+    "ted^sta": [
+        "stated"
+    ],
+    "ted^undispu": [
+        "undisputed"
+    ],
+    "teen^fif": [
+        "fifteen"
+    ],
+    "tenure^": [
+        "tenure"
+    ],
+    "tes^sta": [
+        "states"
+    ],
+    "th^bo": [
+        "both"
+    ],
+    "th^tru": [
+        "truth"
+    ],
+    "th^wi": [
+        "with"
+    ],
+    "that^": [
+        "that"
+    ],
+    "the^": [
+        "the"
+    ],
+    "their^": [
+        "their"
+    ],
+    "there^": [
+        "there"
+    ],
+    "thermore^fur": [
+        "furthermore"
+    ],
+    "thers^o": [
+        "others"
+    ],
+    "these^": [
+        "these"
+    ],
+    "they^": [
+        "they"
+    ],
+    "thing^": [
+        "thing"
+    ],
+    "thing^every": [
+        "everything"
+    ],
+    "thinking^": [
+        "thinking"
+    ],
+    "this^": [
+        "this"
+    ],
+    "tic^logis": [
+        "logistic"
+    ],
+    "tical^statis": [
+        "statistical"
+    ],
+    "ticle^ar": [
+        "article"
+    ],
+    "tics^analy": [
+        "analytics"
+    ],
+    "till^s": [
+        "still"
+    ],
+    "time^": [
+        "time"
+    ],
+    "times^": [
+        "times"
+    ],
+    "timulating^s": [
+        "stimulating"
+    ],
+    "ting^boos": [
+        "boosting"
+    ],
+    "ting^stimula": [
+        "stimulating"
+    ],
+    "tion^posi": [
+        "position"
+    ],
+    "tion^ques": [
+        "question"
+    ],
+    "tist^scien": [
+        "scientist"
+    ],
+    "tistical^sta": [
+        "statistical"
+    ],
+    "tists^scien": [
+        "scientists"
+    ],
+    "title^": [
+        "title"
+    ],
+    "tive^attrac": [
+        "attractive"
+    ],
+    "tive^nega": [
+        "negative"
+    ],
+    "tive^posi": [
+        "positive"
+    ],
+    "tive^predic": [
+        "predictive"
+    ],
+    "tle^ti": [
+        "title"
+    ],
+    "tly^correc": [
+        "correctly"
+    ],
+    "tly^recen": [
+        "recently"
+    ],
+    "to^": [
+        "to"
+    ],
+    "too^": [
+        "too"
+    ],
+    "topped^": [
+        "topped"
+    ],
+    "tor^fac": [
+        "factor"
+    ],
+    "tories^s": [
+        "stories"
+    ],
+    "tractive^at": [
+        "attractive"
+    ],
+    "treme^ex": [
+        "extreme"
+    ],
+    "truth^": [
+        "truth"
+    ],
+    "ts^aspec": [
+        "aspects"
+    ],
+    "ts^i": [
+        "its"
+    ],
+    "ts^scientis": [
+        "scientists"
+    ],
+    "ts^specialis": [
+        "specialists"
+    ],
+    "ttractive^a": [
+        "attractive"
+    ],
+    "tury^cen": [
+        "century"
+    ],
+    "typically^": [
+        "typically"
+    ],
+    "u^yo": [
+        "you"
+    ],
+    "ueen^q": [
+        "queen"
+    ],
+    "uestion^q": [
+        "question"
+    ],
+    "uilt^b": [
+        "built"
+    ],
+    "ulating^stim": [
+        "stimulating"
+    ],
+    "uld^sho": [
+        "should"
+    ],
+    "ums^s": [
+        "sums"
+    ],
+    "un^f": [
+        "fun"
+    ],
+    "undance^ab": [
+        "abundance"
+    ],
+    "undisputed^": [
+        "undisputed"
+    ],
+    "unky^f": [
+        "funky"
+    ],
+    "urage^disco": [
+        "discourage"
+    ],
+    "ure^ten": [
+        "tenure"
+    ],
+    "urs^ho": [
+        "hours"
+    ],
+    "urthermore^f": [
+        "furthermore"
+    ],
+    "urvey^s": [
+        "survey"
+    ],
+    "ury^cent": [
+        "century"
+    ],
+    "use^beca": [
+        "because"
+    ],
+    "usively^excl": [
+        "exclusively"
+    ],
+    "ut^abo": [
+        "about"
+    ],
+    "ut^b": [
+        "but"
+    ],
+    "ut^o": [
+        "out"
+    ],
+    "ute^absol": [
+        "absolute"
+    ],
+    "uted^undisp": [
+        "undisputed"
+    ],
+    "uth^tr": [
+        "truth"
+    ],
+    "ve^attracti": [
+        "attractive"
+    ],
+    "ve^ha": [
+        "have"
+    ],
+    "ve^li": [
+        "live"
+    ],
+    "ve^lo": [
+        "love"
+    ],
+    "ve^negati": [
+        "negative"
+    ],
+    "ve^positi": [
+        "positive"
+    ],
+    "ve^predicti": [
+        "predictive"
+    ],
+    "ve^sol": [
+        "solve"
+    ],
+    "velopers^de": [
+        "developers"
+    ],
+    "vely^exclusi": [
+        "exclusively"
+    ],
+    "ver^o": [
+        "over"
+    ],
+    "verflow^o": [
+        "overflow"
+    ],
+    "verything^e": [
+        "everything"
+    ],
+    "vey^sur": [
+        "survey"
+    ],
+    "vil^de": [
+        "devil"
+    ],
+    "vocate^ad": [
+        "advocate"
+    ],
+    "w^kne": [
+        "knew"
+    ],
+    "w^ne": [
+        "new"
+    ],
+    "w^overflo": [
+        "overflow"
+    ],
+    "want^": [
+        "want"
+    ],
+    "ward^for": [
+        "forward"
+    ],
+    "warding^re": [
+        "rewarding"
+    ],
+    "was^": [
+        "was"
+    ],
+    "wasn^": [
+        "wasn"
+    ],
+    "we^": [
+        "we"
+    ],
+    "week^": [
+        "week"
+    ],
+    "wer^ans": [
+        "answer"
+    ],
+    "were^": [
+        "were"
+    ],
+    "who^": [
+        "who"
+    ],
+    "whole^": [
+        "whole"
+    ],
+    "why^": [
+        "why"
+    ],
+    "witched^s": [
+        "switched"
+    ],
+    "with^": [
+        "with"
+    ],
+    "x^comple": [
+        "complex"
+    ],
+    "xclusively^e": [
+        "exclusively"
+    ],
+    "xgboost^": [
+        "xgboost"
+    ],
+    "xiest^se": [
+        "sexiest"
+    ],
+    "xpose^e": [
+        "expose"
+    ],
+    "xtreme^e": [
+        "extreme"
+    ],
+    "y^b": [
+        "by"
+    ],
+    "y^centur": [
+        "century"
+    ],
+    "y^clarif": [
+        "clarify"
+    ],
+    "y^correctl": [
+        "correctly"
+    ],
+    "y^exclusivel": [
+        "exclusively"
+    ],
+    "y^funk": [
+        "funky"
+    ],
+    "y^highl": [
+        "highly"
+    ],
+    "y^m": [
+        "my"
+    ],
+    "y^man": [
+        "many"
+    ],
+    "y^mone": [
+        "money"
+    ],
+    "y^pla": [
+        "play"
+    ],
+    "y^recentl": [
+        "recently"
+    ],
+    "y^sa": [
+        "say"
+    ],
+    "y^surve": [
+        "survey"
+    ],
+    "y^the": [
+        "they"
+    ],
+    "y^typicall": [
+        "typically"
+    ],
+    "y^wh": [
+        "why"
+    ],
+    "years^": [
+        "years"
+    ],
+    "yes^": [
+        "yes"
+    ],
+    "you^": [
+        "you"
+    ],
+    "ypically^t": [
+        "typically"
+    ],
+    "yself^m": [
+        "myself"
+    ],
+    "ything^ever": [
+        "everything"
+    ],
+    "ytics^anal": [
+        "analytics"
+    ]
 }

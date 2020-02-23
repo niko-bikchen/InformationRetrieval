@@ -5,6 +5,7 @@ from colorama import Fore, Style
 from task_3.index_builder import normalize
 
 
+# Returns all words from the given tree
 def get_all_words(tree: OOBTree, words: List[str] = None, word: str = '') -> List[str]:
     if words is None:
         words = []
@@ -19,18 +20,31 @@ def get_all_words(tree: OOBTree, words: List[str] = None, word: str = '') -> Lis
     return words
 
 
+# Receives a word with a single joker (i.e. a pattern) and
+# returns all the words which correspond to the given pattern
 def get_words_by_joker(doc_index: OOBTree, gram_index: OOBTree, query: str) -> Set[str]:
     query: str = query.replace('*', '')
     words: Set[str] = set()
 
+    # If a pattern consists of more than 3 letters
+    # (this includes letters + symbols which represent
+    # beginning and the end of a word) we make three grams
+    # from it and search for them.
     if len(query) > 3:
         queries: List[str] = [query[i:i + 3] for i in range(len(query) - 2)]
         words = set(gram_index.get(queries.pop(0), []))
 
         for item in queries:
             words = words.intersection(set(gram_index.get(item, [])))
+    # If a pattern consists of just three letters
+    # we search for it in the three gram index
     elif len(query) == 3:
         words: Set[str] = set(gram_index.get(query, []))
+    # If a pattern consists of two words
+    # (letter + symbols which represent beginning
+    # and the end of a word) we search for all grams
+    # in the three gram index which begin or end with
+    # this word.
     elif len(query) == 2:
         print(
             f'{Fore.YELLOW}'
@@ -56,6 +70,9 @@ def get_words_by_joker(doc_index: OOBTree, gram_index: OOBTree, query: str) -> S
     return words
 
 
+# Receives a query with a joker (a pattern) and looks for all words which correspond to this pattern.
+# If a query has a joker in the middle of the word, it will split this query into two smaller queries
+# and process each individually.
 def search_with_joker(doc_index: OOBTree, gram_index: OOBTree, query: str) -> Set[str]:
     jokers: List[str] = re.findall(r'\*', query)
     docs: Set[str] = set()
