@@ -1,5 +1,7 @@
 .idea/
-data/
+data/posts/
+task_6/storage/
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

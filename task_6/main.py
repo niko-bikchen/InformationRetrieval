@@ -1,9 +1,16 @@
+import sys
+import time
+import pickle
+import task_6.spimi as spimi
+import task_6.preprocess as preprocess
+
+from task_6.storage_manager import StorageManager
+from BTrees.OOBTree import OOBTree
 from colorama import Fore, Style
 from typing import List
-import task_5.spimi as spimi
-import task_5.preprocess as preprocess
 from os import listdir, path
-import time
+
+sys.setrecursionlimit(10000)
 
 
 def count_total_file_size(documents: List[str], base_path: str) -> int:
@@ -53,7 +60,15 @@ def build_index(documents, base_path, block_size_limit: int):
           f'{Style.RESET_ALL}')
 
 
-start_time = time.time()
-build_index(listdir(r"D:\PyCharmWorkspace\InfoRetrival\data\books\bigtxt"),
-            r"D:\PyCharmWorkspace\InfoRetrival\data\books\bigtxt", 500000)
-print(f'{Fore.BLUE}Indexing took {time.time() - start_time} seconds{Style.RESET_ALL}')
+# start_time = time.time()
+# build_index(listdir(r"D:\PyCharmWorkspace\InfoRetrival\data\books\bigtxt"),
+#             r"D:\PyCharmWorkspace\InfoRetrival\data\books\bigtxt", 500000)
+# print(f'{Fore.BLUE}Indexing took {time.time() - start_time} seconds{Style.RESET_ALL}')
+
+with open('term_tree.pkl', 'rb') as file_handler:
+    data = pickle.load(file_handler)
+
+term_tree = OOBTree(data)
+storage = StorageManager(term_tree, 0)
+
+print(storage.find_term('half'))

@@ -1,25 +1,17 @@
 import re
 import sys
 import ast
-import zlib
-import base64
+from task_6.storage_manager import encode_b64, decode_b64, StorageManager
 from typing import Set, Dict, List
 from colorama import Fore, Style
 from collections import OrderedDict
-
-
-def encode_b64(term: str) -> bytes:
-    return base64.b64encode(zlib.compress(term.encode('utf-8'), 6))
-
-
-def decode_b64(term: bytes) -> str:
-    return str(zlib.decompress(base64.b64decode(term)), 'utf-8')
 
 
 def spimi_invert(documents, block_size_limit: int) -> List[str]:
     block: Dict[str, Set[str]] = {}
     block_id: int = 0
     block_paths: List[str] = []
+    storage = StorageManager()
 
     for index, fileId in enumerate(documents):
 
@@ -32,6 +24,8 @@ def spimi_invert(documents, block_size_limit: int) -> List[str]:
                 block[term].add(fileId)
             else:
                 block[term] = {fileId}
+
+            storage.save_to_storage(term, fileId)
 
         if sys.getsizeof(block) > block_size_limit or (index == len(documents) - 1):
             print(f'{Fore.BLUE}'
@@ -56,6 +50,7 @@ def spimi_invert(documents, block_size_limit: int) -> List[str]:
           f'Starting merging blocks into single index...\n'
           f'{Style.RESET_ALL}')
 
+    del storage
     return block_paths
 
 
@@ -83,7 +78,7 @@ def save_block(block: Dict[str, Set[str]], block_id: int) -> str:
 
 def merge_blocks(blocks: list):
     merge_completed = False
-    spimi_index = open('SPIMI_inverted_index.txt', 'w')
+    spimi_index = open('index/SPIMI_inverted_index.txt', 'w')
     block_lines_buffer = OrderedDict()
     words_count = 0
 
