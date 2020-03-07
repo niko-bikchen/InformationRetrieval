@@ -1,6 +1,8 @@
 .idea/
 data/posts/
 task_6/storage/
+task_5/normalized_files/
+task_5/blocks/
 *.pkl
 *.fb2
 
