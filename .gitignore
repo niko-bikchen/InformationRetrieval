@@ -2,6 +2,7 @@
 data/posts/
 task_6/storage/
 *.pkl
+*.fb2
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
