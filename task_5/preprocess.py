@@ -95,7 +95,7 @@ def normalize(words: List[str]) -> List[str]:
     try:
         words = replace_numbers(words)
     except Exception as e:
-        print('Number too big: ', str(e))
+        print('Cannot convert number to string. Number too big. ', str(e))
 
     return words
 

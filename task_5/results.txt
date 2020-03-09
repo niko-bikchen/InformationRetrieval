@@ -1,0 +1,5 @@
+Test #1:
+Collection size: 117.836848 MB
+Number of documents: 17
+Time: 1308.1894924640656 seconds (~21 min)
+Words indexed: 347423

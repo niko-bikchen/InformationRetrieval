@@ -1,5 +1,7 @@
 import io
 import re
+import os
+import warnings
 import unicodedata
 from typing import List
 
@@ -8,6 +10,24 @@ import inflect
 from colorama import Fore, Style
 from nltk import word_tokenize
 from nltk.stem.snowball import SnowballStemmer
+from bs4 import BeautifulSoup
+
+warnings.filterwarnings('ignore', category=UserWarning, module='bs4')
+
+
+def strip_html(text):
+    soup = BeautifulSoup(text, "html.parser")
+    return soup.get_text()
+
+
+def remove_between_square_brackets(text):
+    return re.sub(r'\[[^]]*\]', '', text)
+
+
+def denoise_text(text):
+    text = strip_html(text)
+    text = remove_between_square_brackets(text)
+    return text
 
 
 def remove_non_ascii(words: List[str]) -> List[str]:
@@ -72,32 +92,36 @@ def normalize(words: List[str]) -> List[str]:
     words = to_lowercase(words)
     words = remove_punctuation(words)
     words = stem_words(words)
-    words = replace_numbers(words)
+    try:
+        words = replace_numbers(words)
+    except Exception as e:
+        print('Cannot convert number to string. Number too big. ', str(e))
 
     return words
 
 
 def preprocess_documents(documents, base_path):
-    preprocessed_documents = {}
+    preprocessed_documents: List[str] = []
 
     for file_id in documents:
-        with io.open(fr'{base_path}\\{file_id}', encoding='utf-8-sig') as file_reader:
+        with io.open(fr'{base_path}\\{file_id}', mode='r', encoding='utf-8-sig') as file_reader:
+            with io.open(fr'normalized_files\\{os.path.splitext(file_id)[0]}.txt', mode='w') as file_writer:
+                print(f'{Fore.BLUE}Preprocessing {file_reader.name}{Style.RESET_ALL}...')
 
-            print(f'{Fore.BLUE}Preprocessing {file_reader.name}{Style.RESET_ALL}...')
+                for line in file_reader:
+                    line = denoise_text(line)
+                    line = contractions.fix(line)
+                    words = word_tokenize(line)
+                    norm_words = normalize(words)
 
-            for line in file_reader:
-                line = contractions.fix(line)
-                words = word_tokenize(line)
-                norm_words = normalize(words)
+                    if len(norm_words) == 0:
+                        continue
 
-                if len(norm_words) == 0:
-                    continue
+                    file_writer.write(f"{'|'.join(norm_words)}\n")
+                    norm_words.clear()
 
-                if preprocessed_documents.get(file_id, None) is None:
-                    preprocessed_documents[file_id] = norm_words
-                else:
-                    preprocessed_documents[file_id].extend(norm_words)
+                preprocessed_documents.append(fr'normalized_files\\{os.path.splitext(file_id)[0]}.txt')
 
-            print(f'{Fore.GREEN}Finished preprocessing {file_reader.name}{Style.RESET_ALL}')
+                print(f'{Fore.GREEN}Finished preprocessing {file_reader.name}{Style.RESET_ALL}')
 
     return preprocessed_documents

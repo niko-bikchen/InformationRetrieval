@@ -114,7 +114,7 @@ def merge_blocks(blocks: list):
                 []))
 
         smallest_term_postings = list(map(lambda el: el.split('\\\\')[1], smallest_term_postings))
-        spimi_index.write(f'{str(smallest_term)}:{str(smallest_term_postings)}\n')
+        spimi_index.write(f'{str(smallest_term)}:{str(set(smallest_term_postings))}\n')
         words_count += 1
 
         for block_id in smallest_term_block_ids:

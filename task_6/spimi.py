@@ -7,42 +7,45 @@ from colorama import Fore, Style
 from collections import OrderedDict
 
 
-def spimi_invert(documents, block_size_limit: int) -> List[str]:
+def spimi_invert(documents: List[str], block_size_limit: int) -> List[str]:
     block: Dict[str, Set[str]] = {}
     block_id: int = 0
     block_paths: List[str] = []
     storage = StorageManager()
 
     for index, fileId in enumerate(documents):
-
-        print(f'{Fore.BLUE}'
-              f'Processing {fileId}...'
-              f'{Style.RESET_ALL}')
-
-        for term in documents[fileId]:
-            if term in block:
-                block[term].add(fileId)
-            else:
-                block[term] = {fileId}
-
-            storage.save_to_storage(term, fileId)
-
-        if sys.getsizeof(block) > block_size_limit or (index == len(documents) - 1):
+        with open(fileId, 'r') as file_reader:
             print(f'{Fore.BLUE}'
-                  f'Block #{block_id} exceeds size limit\n'
-                  f'Commencing block saving process...'
+                  f'Processing {fileId}...'
                   f'{Style.RESET_ALL}')
 
-            block_path = save_block(sort_terms(block), block_id)
+            for line in file_reader:
+                for term in line.split('|'):
+                    if term in block:
+                        block[term].add(fileId)
+                    else:
+                        block[term] = {fileId}
 
-            block_paths.append(block_path)
-            block_id += 1
+                    storage.save_to_storage(term, fileId)
 
-            block.clear()
+                    if sys.getsizeof(block) > block_size_limit:
+                        print(f'{Fore.BLUE}'
+                              f'Block #{block_id} exceeds size limit\n'
+                              f'Commencing block saving process...'
+                              f'{Style.RESET_ALL}')
 
-        print(f'{Fore.GREEN}'
-              f'Finished processing {fileId}\n'
-              f'{Style.RESET_ALL}')
+                        block_path = save_block(sort_terms(block), block_id)
+
+                        block_paths.append(block_path)
+                        block_id += 1
+
+                        block.clear()
+
+            print(f'{Fore.GREEN}'
+                  f'Finished processing {fileId}\n'
+                  f'{Style.RESET_ALL}')
+
+    save_block(sort_terms(block), block_id)
 
     print(f'{Fore.GREEN}'
           f'SPIMI indexing complete.\n'
@@ -105,7 +108,8 @@ def merge_blocks(blocks: list):
                  (block_lines_buffer[block_id] for block_id in smallest_term_block_ids)],
                 []))
 
-        spimi_index.write(f'{str(smallest_term)}:{str(smallest_term_postings)}\n')
+        smallest_term_postings = list(map(lambda el: el.split('\\\\')[1], smallest_term_postings))
+        spimi_index.write(f'{str(smallest_term)}:{str(set(smallest_term_postings))}\n')
         words_count += 1
 
         for block_id in smallest_term_block_ids:

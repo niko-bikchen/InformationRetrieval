@@ -31,10 +31,12 @@ def build_index(documents, base_path, block_size_limit: int):
 
     print(f'{Fore.BLUE}Preprocessing documents...{Style.RESET_ALL}\n')
 
+    begin = time.time()
+
     documents = preprocess.preprocess_documents(documents, base_path)
 
     print(f'{Fore.GREEN}'
-          f'\nPreprocessing complete.\n'
+          f'\nPreprocessing complete in {time.time() - begin} seconds.\n'
           f'{Fore.BLUE}'
           f'Starting SPIMI indexing...\n'
           f'{Style.RESET_ALL}')
@@ -43,10 +45,12 @@ def build_index(documents, base_path, block_size_limit: int):
 
     blocks = [open(fr'blocks/{block_name}', 'r') for block_name in listdir('blocks/')]
 
+    begin = time.time()
+
     words_count = spimi.merge_blocks(blocks)
 
     print(f'{Fore.GREEN}'
-          f'Merging complete.\n'
+          f'Merging complete in {time.time() - begin} seconds.\n'
           f'Index build complete.\n'
           f'{Fore.BLUE}'
           f'Words indexed: {words_count}'
@@ -54,6 +58,6 @@ def build_index(documents, base_path, block_size_limit: int):
 
 
 start_time = time.time()
-build_index(listdir(r"D:\PyCharmWorkspace\InformationRetrieval\data\books\smalltxt"),
-            r"D:\PyCharmWorkspace\InformationRetrieval\data\books\smalltxt", 300000)
+build_index(listdir(r"D:\PyCharmWorkspace\InformationRetrieval\data\books\prettybigtxt"),
+            r"D:\PyCharmWorkspace\InformationRetrieval\data\books\prettybigtxt", 500000)
 print(f'{Fore.BLUE}Indexing took {time.time() - start_time} seconds{Style.RESET_ALL}')
