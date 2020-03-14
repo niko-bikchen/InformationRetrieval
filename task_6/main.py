@@ -85,17 +85,14 @@ print(vbencoder.vb_decode(encode_nums))
 with open('../task_2/my_inverted_index.json', 'r') as handler:
     index = json.load(handler)
 
+with open(fr'uncompressed_index.txt', 'w') as handler:
+    handler.write(str(index))
+
 for key in index:
     index[key] = vbencoder.preprocess_postings(index[key])
-
-pprint.pprint(index)
 
 for key in index:
     index[key] = vbencoder.vb_encode(index[key])
 
-pprint.pprint(index)
-
-for key in index:
-    index[key] = vbencoder.vb_decode(index[key])
-
-pprint.pprint(index)
+with open(fr'compressed_index.txt', 'w') as handler:
+    handler.write(str(index))

@@ -58,6 +58,6 @@ def build_index(documents, base_path, block_size_limit: int):
 
 
 start_time = time.time()
-build_index(listdir(r"D:\PyCharmWorkspace\InformationRetrieval\data\books\prettybigtxt"),
-            r"D:\PyCharmWorkspace\InformationRetrieval\data\books\prettybigtxt", 500000)
+build_index(listdir(r"D:\PyCharmWorkspace\InformationRetrieval\data\books\bigtxt"),
+            r"D:\PyCharmWorkspace\InformationRetrieval\data\books\bigtxt", 500000)
 print(f'{Fore.BLUE}Indexing took {time.time() - start_time} seconds{Style.RESET_ALL}')

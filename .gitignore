@@ -2,6 +2,7 @@
 data/posts/
 data/books/prettybigtxt
 task_6/storage/
+task_6/blocks/
 task_5/normalized_files/
 task_5/blocks/
 *.pkl
