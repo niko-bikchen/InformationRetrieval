@@ -1,5 +1,4 @@
 import json
-import collections
 from task_7.preprocess import preprocess_query
 
 
