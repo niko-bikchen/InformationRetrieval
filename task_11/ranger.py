@@ -1,5 +1,5 @@
 import json
-from task_7.preprocess import preprocess_query
+from task_11.preprocess import preprocess_query
 
 
 def build_index(files_zones):

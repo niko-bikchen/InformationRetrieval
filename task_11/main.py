@@ -1,7 +1,7 @@
 import os
 import pprint
-from task_7.preprocess import preprocess_documents
-from task_7.ranger import build_index, ranked_search
+from task_11.preprocess import preprocess_documents
+from task_11.ranger import build_index, ranked_search
 
 DIR_PATH = os.path.abspath('../data/books/fb2')
 
